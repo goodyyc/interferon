@@ -1,0 +1,960 @@
+[
+  {
+    "data": [
+      {
+        "name": "LOC110201183",
+        "value": "Phascolarctos cinereus_树袋熊",
+        "category": 0
+      },
+      { "name": "MTAP", "category": 2 },
+      {
+        "name": "LOC110201202",
+        "value": "Phascolarctos cinereus_树袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC110201203",
+        "value": "Phascolarctos cinereus_树袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC118833624",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      { "name": "HACD4", "category": 4 },
+      { "name": "FOCAD", "category": 3 },
+      {
+        "name": "LOC118833565",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833550",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833434",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833564",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833567",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833559",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833537",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833552",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833554",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833589",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118831614",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118831668",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118831665",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118831684",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC114039317",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114039318",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114040899",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114042533",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048347",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048343",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048351",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048353",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026032",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      { "name": "MOB3B", "category": 3 },
+      {
+        "name": "LOC114026062",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026046",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026019",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      }
+    ],
+    "links": [
+      { "source": "LOC110201183", "target": "MTAP" },
+      { "source": "LOC110201202", "target": "MTAP" },
+      { "source": "LOC110201203", "target": "MTAP" },
+      { "source": "LOC118833624", "target": "HACD4" },
+      { "source": "LOC118833624", "target": "FOCAD" },
+      { "source": "LOC118833565", "target": "HACD4" },
+      { "source": "LOC118833565", "target": "FOCAD" },
+      { "source": "LOC118833550", "target": "HACD4" },
+      { "source": "LOC118833550", "target": "FOCAD" },
+      { "source": "LOC118833434", "target": "HACD4" },
+      { "source": "LOC118833434", "target": "FOCAD" },
+      { "source": "LOC118833564", "target": "HACD4" },
+      { "source": "LOC118833564", "target": "FOCAD" },
+      { "source": "LOC118833567", "target": "HACD4" },
+      { "source": "LOC118833567", "target": "FOCAD" },
+      { "source": "LOC118833559", "target": "HACD4" },
+      { "source": "LOC118833559", "target": "FOCAD" },
+      { "source": "LOC118833537", "target": "HACD4" },
+      { "source": "LOC118833537", "target": "FOCAD" },
+      { "source": "LOC118833552", "target": "HACD4" },
+      { "source": "LOC118833552", "target": "FOCAD" },
+      { "source": "LOC118833554", "target": "HACD4" },
+      { "source": "LOC118833554", "target": "FOCAD" },
+      { "source": "LOC118833589", "target": "HACD4" },
+      { "source": "LOC118833589", "target": "FOCAD" },
+      { "source": "LOC118831614", "target": "MTAP" },
+      { "source": "LOC118831668", "target": "MTAP" },
+      { "source": "LOC118831665", "target": "MTAP" },
+      { "source": "LOC118831684", "target": "MTAP" },
+      { "source": "LOC114040899", "target": "FOCAD" },
+      { "source": "LOC114040899", "target": "HACD4" },
+      { "source": "LOC114026032", "target": "MTAP" },
+      { "source": "LOC114026032", "target": "MOB3B" },
+      { "source": "LOC114026062", "target": "MTAP" },
+      { "source": "LOC114026062", "target": "MOB3B" },
+      { "source": "LOC114026046", "target": "MTAP" },
+      { "source": "LOC114026046", "target": "MOB3B" },
+      { "source": "LOC114026019", "target": "MTAP" }
+    ]
+  },
+  {
+    "data": [
+      {
+        "name": "LOC110201202",
+        "value": "Phascolarctos cinereus_树袋熊",
+        "category": 0
+      },
+      { "name": "MTAP", "category": 2 },
+      {
+        "name": "LOC110201203",
+        "value": "Phascolarctos cinereus_树袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC118833624",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      { "name": "HACD4", "category": 4 },
+      { "name": "FOCAD", "category": 3 },
+      {
+        "name": "LOC118833550",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833434",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833564",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833567",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833559",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833537",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833552",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833554",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833589",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118831614",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118831665",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC114039318",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048347",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048343",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048351",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048353",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026032",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      { "name": "MOB3B", "category": 3 },
+      {
+        "name": "LOC114026062",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026046",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026019",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      }
+    ],
+    "links": [
+      { "source": "LOC110201202", "target": "MTAP" },
+      { "source": "LOC110201203", "target": "MTAP" },
+      { "source": "LOC118833624", "target": "HACD4" },
+      { "source": "LOC118833624", "target": "FOCAD" },
+      { "source": "LOC118833550", "target": "HACD4" },
+      { "source": "LOC118833550", "target": "FOCAD" },
+      { "source": "LOC118833434", "target": "HACD4" },
+      { "source": "LOC118833434", "target": "FOCAD" },
+      { "source": "LOC118833564", "target": "HACD4" },
+      { "source": "LOC118833564", "target": "FOCAD" },
+      { "source": "LOC118833567", "target": "HACD4" },
+      { "source": "LOC118833567", "target": "FOCAD" },
+      { "source": "LOC118833559", "target": "HACD4" },
+      { "source": "LOC118833559", "target": "FOCAD" },
+      { "source": "LOC118833537", "target": "HACD4" },
+      { "source": "LOC118833537", "target": "FOCAD" },
+      { "source": "LOC118833552", "target": "HACD4" },
+      { "source": "LOC118833552", "target": "FOCAD" },
+      { "source": "LOC118833554", "target": "HACD4" },
+      { "source": "LOC118833554", "target": "FOCAD" },
+      { "source": "LOC118833589", "target": "HACD4" },
+      { "source": "LOC118833589", "target": "FOCAD" },
+      { "source": "LOC118831614", "target": "MTAP" },
+      { "source": "LOC118831665", "target": "MTAP" },
+      { "source": "LOC114026032", "target": "MTAP" },
+      { "source": "LOC114026032", "target": "MOB3B" },
+      { "source": "LOC114026062", "target": "MTAP" },
+      { "source": "LOC114026062", "target": "MOB3B" },
+      { "source": "LOC114026046", "target": "MTAP" },
+      { "source": "LOC114026046", "target": "MOB3B" },
+      { "source": "LOC114026019", "target": "MTAP" }
+    ]
+  },
+  {
+    "data": [
+      {
+        "name": "LOC110201203",
+        "value": "Phascolarctos cinereus_树袋熊",
+        "category": 0
+      },
+      { "name": "MTAP", "category": 2 },
+      {
+        "name": "LOC118833624",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      { "name": "HACD4", "category": 4 },
+      { "name": "FOCAD", "category": 3 },
+      {
+        "name": "LOC118833565",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833550",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833434",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833564",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833567",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833559",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833537",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833552",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833554",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833589",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118831614",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118831665",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118831684",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC114039318",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048347",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048351",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048353",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026032",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      { "name": "MOB3B", "category": 3 },
+      {
+        "name": "LOC114026062",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026046",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026019",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      }
+    ],
+    "links": [
+      { "source": "LOC110201203", "target": "MTAP" },
+      { "source": "LOC118833624", "target": "HACD4" },
+      { "source": "LOC118833624", "target": "FOCAD" },
+      { "source": "LOC118833565", "target": "HACD4" },
+      { "source": "LOC118833565", "target": "FOCAD" },
+      { "source": "LOC118833550", "target": "HACD4" },
+      { "source": "LOC118833550", "target": "FOCAD" },
+      { "source": "LOC118833434", "target": "HACD4" },
+      { "source": "LOC118833434", "target": "FOCAD" },
+      { "source": "LOC118833564", "target": "HACD4" },
+      { "source": "LOC118833564", "target": "FOCAD" },
+      { "source": "LOC118833567", "target": "HACD4" },
+      { "source": "LOC118833567", "target": "FOCAD" },
+      { "source": "LOC118833559", "target": "HACD4" },
+      { "source": "LOC118833559", "target": "FOCAD" },
+      { "source": "LOC118833537", "target": "HACD4" },
+      { "source": "LOC118833537", "target": "FOCAD" },
+      { "source": "LOC118833552", "target": "HACD4" },
+      { "source": "LOC118833552", "target": "FOCAD" },
+      { "source": "LOC118833554", "target": "HACD4" },
+      { "source": "LOC118833554", "target": "FOCAD" },
+      { "source": "LOC118833589", "target": "HACD4" },
+      { "source": "LOC118833589", "target": "FOCAD" },
+      { "source": "LOC118831614", "target": "MTAP" },
+      { "source": "LOC118831665", "target": "MTAP" },
+      { "source": "LOC118831684", "target": "MTAP" },
+      { "source": "LOC114026032", "target": "MTAP" },
+      { "source": "LOC114026032", "target": "MOB3B" },
+      { "source": "LOC114026062", "target": "MTAP" },
+      { "source": "LOC114026062", "target": "MOB3B" },
+      { "source": "LOC114026046", "target": "MTAP" },
+      { "source": "LOC114026046", "target": "MOB3B" },
+      { "source": "LOC114026019", "target": "MTAP" }
+    ]
+  },
+  {
+    "data": [
+      {
+        "name": "LOC118833552",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 0
+      },
+      { "name": "HACD4", "category": 2 },
+      { "name": "FOCAD", "category": 2 },
+      {
+        "name": "LOC118833554",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118833589",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118831614",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      { "name": "MTAP", "category": 4 },
+      {
+        "name": "LOC118831665",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC114039317",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114039318",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114040899",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114042533",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048347",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048343",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048351",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048353",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026032",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      { "name": "MOB3B", "category": 3 },
+      {
+        "name": "LOC114026062",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026046",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026019",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      }
+    ],
+    "links": [
+      { "source": "LOC118833552", "target": "HACD4" },
+      { "source": "LOC118833552", "target": "FOCAD" },
+      { "source": "LOC118833554", "target": "HACD4" },
+      { "source": "LOC118833554", "target": "FOCAD" },
+      { "source": "LOC118833589", "target": "HACD4" },
+      { "source": "LOC118833589", "target": "FOCAD" },
+      { "source": "LOC118831614", "target": "MTAP" },
+      { "source": "LOC118831665", "target": "MTAP" },
+      { "source": "LOC114040899", "target": "FOCAD" },
+      { "source": "LOC114040899", "target": "HACD4" },
+      { "source": "LOC114026032", "target": "MTAP" },
+      { "source": "LOC114026032", "target": "MOB3B" },
+      { "source": "LOC114026062", "target": "MTAP" },
+      { "source": "LOC114026062", "target": "MOB3B" },
+      { "source": "LOC114026046", "target": "MTAP" },
+      { "source": "LOC114026046", "target": "MOB3B" },
+      { "source": "LOC114026019", "target": "MTAP" }
+    ]
+  },
+  {
+    "data": [
+      {
+        "name": "LOC118833554",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 0
+      },
+      { "name": "HACD4", "category": 2 },
+      { "name": "FOCAD", "category": 2 },
+      {
+        "name": "LOC118833589",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118831665",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      { "name": "MTAP", "category": 4 },
+      {
+        "name": "LOC114039317",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114039318",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114040899",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114042533",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048347",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048343",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048351",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048353",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026032",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      { "name": "MOB3B", "category": 3 },
+      {
+        "name": "LOC114026062",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026046",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026019",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      }
+    ],
+    "links": [
+      { "source": "LOC118833554", "target": "HACD4" },
+      { "source": "LOC118833554", "target": "FOCAD" },
+      { "source": "LOC118833589", "target": "HACD4" },
+      { "source": "LOC118833589", "target": "FOCAD" },
+      { "source": "LOC118831665", "target": "MTAP" },
+      { "source": "LOC114040899", "target": "FOCAD" },
+      { "source": "LOC114040899", "target": "HACD4" },
+      { "source": "LOC114026032", "target": "MTAP" },
+      { "source": "LOC114026032", "target": "MOB3B" },
+      { "source": "LOC114026062", "target": "MTAP" },
+      { "source": "LOC114026062", "target": "MOB3B" },
+      { "source": "LOC114026046", "target": "MTAP" },
+      { "source": "LOC114026046", "target": "MOB3B" },
+      { "source": "LOC114026019", "target": "MTAP" }
+    ]
+  },
+  {
+    "data": [
+      {
+        "name": "LOC118833589",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 0
+      },
+      { "name": "HACD4", "category": 2 },
+      { "name": "FOCAD", "category": 2 },
+      {
+        "name": "LOC118831614",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      { "name": "MTAP", "category": 4 },
+      {
+        "name": "LOC118831665",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC118831684",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1
+      },
+      {
+        "name": "LOC114039317",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114039318",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114040899",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114042533",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048347",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048343",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048351",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048353",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048284",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026032",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      { "name": "MOB3B", "category": 3 },
+      {
+        "name": "LOC114026062",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026046",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026019",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      }
+    ],
+    "links": [
+      { "source": "LOC118833589", "target": "HACD4" },
+      { "source": "LOC118833589", "target": "FOCAD" },
+      { "source": "LOC118831614", "target": "MTAP" },
+      { "source": "LOC118831665", "target": "MTAP" },
+      { "source": "LOC118831684", "target": "MTAP" },
+      { "source": "LOC114040899", "target": "FOCAD" },
+      { "source": "LOC114040899", "target": "HACD4" },
+      { "source": "LOC114026032", "target": "MTAP" },
+      { "source": "LOC114026032", "target": "MOB3B" },
+      { "source": "LOC114026062", "target": "MTAP" },
+      { "source": "LOC114026062", "target": "MOB3B" },
+      { "source": "LOC114026046", "target": "MTAP" },
+      { "source": "LOC114026046", "target": "MOB3B" },
+      { "source": "LOC114026019", "target": "MTAP" }
+    ]
+  },
+  {
+    "data": [
+      {
+        "name": "LOC114040899",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 0
+      },
+      { "name": "FOCAD", "category": 2 },
+      { "name": "HACD4", "category": 2 },
+      {
+        "name": "LOC114042533",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048347",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048343",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048351",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114048353",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      {
+        "name": "LOC114026032",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      },
+      { "name": "MTAP", "category": 4 },
+      { "name": "MOB3B", "category": 3 },
+      {
+        "name": "LOC114026062",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1
+      }
+    ],
+    "links": [
+      { "source": "LOC114040899", "target": "FOCAD" },
+      { "source": "LOC114040899", "target": "HACD4" },
+      { "source": "LOC114026032", "target": "MTAP" },
+      { "source": "LOC114026032", "target": "MOB3B" },
+      { "source": "LOC114026062", "target": "MTAP" },
+      { "source": "LOC114026062", "target": "MOB3B" }
+    ]
+  },
+  {
+    "data": [
+      {
+        "name": "LOC120407300",
+        "value": "Mauremys reevesii_乌龟",
+        "category": 0
+      },
+      { "name": "MTAP", "category": 2 },
+      {
+        "name": "LOC115653539",
+        "value": "Gopherus evgoodei_古兹沙漠陆龟",
+        "category": 1
+      },
+      { "name": "FOCAD", "category": 4 },
+      { "name": "HACD4", "category": 3 },
+      {
+        "name": "LOC115653544",
+        "value": "Gopherus evgoodei_古兹沙漠陆龟",
+        "category": 1
+      },
+      {
+        "name": "LOC115653546",
+        "value": "Gopherus evgoodei_古兹沙漠陆龟",
+        "category": 1
+      },
+      {
+        "name": "LOC115640581",
+        "value": "Gopherus evgoodei_古兹沙漠陆龟",
+        "category": 1
+      }
+    ],
+    "links": [
+      { "source": "LOC120407300", "target": "MTAP" },
+      { "source": "LOC115653539", "target": "FOCAD" },
+      { "source": "LOC115653539", "target": "HACD4" },
+      { "source": "LOC115653544", "target": "FOCAD" },
+      { "source": "LOC115653544", "target": "HACD4" },
+      { "source": "LOC115653546", "target": "FOCAD" },
+      { "source": "LOC115653546", "target": "HACD4" }
+    ]
+  },
+  {
+    "data": [
+      {
+        "name": "LOC115653518",
+        "value": "Gopherus evgoodei_古兹沙漠陆龟",
+        "category": 0
+      },
+      { "name": "MTAP", "category": 2 },
+      {
+        "name": "LOC115653542",
+        "value": "Gopherus evgoodei_古兹沙漠陆龟",
+        "category": 1
+      },
+      { "name": "FOCAD", "category": 4 },
+      { "name": "HACD4", "category": 3 },
+      {
+        "name": "LOC115653545",
+        "value": "Gopherus evgoodei_古兹沙漠陆龟",
+        "category": 1
+      }
+    ],
+    "links": [
+      { "source": "LOC115653518", "target": "MTAP" },
+      { "source": "LOC115653542", "target": "FOCAD" },
+      { "source": "LOC115653542", "target": "HACD4" },
+      { "source": "LOC115653545", "target": "FOCAD" },
+      { "source": "LOC115653545", "target": "HACD4" }
+    ]
+  }
+]

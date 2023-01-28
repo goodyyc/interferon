@@ -1,0 +1,63 @@
+/* @tailwind base; */
+/* @tailwind components; */
+@tailwind utilities;
+
+
+.ant-layout {
+  background-color: #fff !important;
+}
+
+.ant-layout-header {
+  /* height: 54px !important; */
+  /* line-height: 54px !important; */
+  @apply align-middle;
+  background-color: #f4f4f4 !important;
+}
+
+.ant-menu {
+  background-color: #f4f4f4 !important;
+  /* line-height: 36px !important;
+  margin-top: 9px !important; */
+}
+
+/* .ant-menu-item,
+.ant-menu-submenu-horizontal {
+  transition: all 0.5s !important;
+  border-radius: 9999px;
+} */
+
+/* .ant-menu-item-selected,.ant-menu-submenu-selected {
+  box-shadow: inset -2px -2px 5px #fff3, inset 2px 2px 5px #0007;
+  background: linear-gradient(135deg, #0077ff 0%, #0095ff 50%, #0396ff 100%);
+  background-size: 400px 400px;
+  color:white;
+}
+
+
+.ant-menu-item:hover,.ant-menu-submenu-horizontal:hover {
+  box-shadow: inset -2px -2px 5px #0005, inset 2px 2px 5px #ffe;
+  background: linear-gradient(135deg, #0077ff 0%, #0095ff 50%, #0396ff 100%);
+  background-size: 400px 400px;
+  background-position: -100px -100px;
+} */
+
+
+/* table {
+  @apply shadow;
+}
+
+th {
+    @apply shadow;
+}
+
+td {
+    @apply p-2 shadow;
+} */
+
+.markdown-body {
+  margin: auto !important;
+}
+
+.tdFirst {
+  padding-right: 10px;
+}

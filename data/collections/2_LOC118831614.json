@@ -1,0 +1,1 @@
+{"top": [["LOC118831614", 1], ["LOC118831668", 1], ["LOC118831665", 1], ["LOC118831684", 1]], "data": [{"species": "Trichosurus vulpecula_刷尾负鼠", "chromosome": "NC_050581.1", "start": 29278777, "end": 29740436, "data": [{"gene": "LOC118831614", "type": 0, "exon": 1, "product": "interferon alpha-16-like", "start": 29339514, "end": 29340065, "direction": "+", "same": false}]}]}

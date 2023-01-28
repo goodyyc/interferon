@@ -1,0 +1,998 @@
+{
+    "top": [
+        [
+            "NFKBIB",
+            5
+        ],
+        [
+            "CCER2",
+            5
+        ],
+        [
+            "SARS2",
+            5
+        ],
+        [
+            "MRPS12",
+            5
+        ],
+        [
+            "ACP7",
+            5
+        ],
+        [
+            "PAK4",
+            5
+        ],
+        [
+            "NCCRP1",
+            5
+        ],
+        [
+            "LRFN1",
+            5
+        ],
+        [
+            "SAMD4B",
+            5
+        ],
+        [
+            "PAF1",
+            5
+        ],
+        [
+            "MED29",
+            5
+        ],
+        [
+            "SYCN",
+            4
+        ],
+        [
+            "GMFG",
+            4
+        ],
+        [
+            "SIRT2",
+            4
+        ],
+        [
+            "ZFP36",
+            4
+        ],
+        [
+            "PLEKHG2",
+            4
+        ],
+        [
+            "FBXO27",
+            3
+        ],
+        [
+            "TRNAI-UAU",
+            3
+        ],
+        [
+            "RPS16",
+            3
+        ],
+        [
+            "IFNL3",
+            2
+        ],
+        [
+            "RINL",
+            2
+        ],
+        [
+            "FBXO17",
+            1
+        ],
+        [
+            "IFNL3P1",
+            1
+        ],
+        [
+            "IFNL4",
+            1
+        ],
+        [
+            "MSRB1P1",
+            1
+        ],
+        [
+            "IFNL4P1",
+            1
+        ],
+        [
+            "IFNL2",
+            1
+        ],
+        [
+            "IFNL1",
+            1
+        ],
+        [
+            "RN7SL566P",
+            1
+        ],
+        [
+            "LOC103166971",
+            1
+        ],
+        [
+            "LOC114812048",
+            1
+        ],
+        [
+            "LOC114812055",
+            1
+        ],
+        [
+            "LOC123240893",
+            1
+        ],
+        [
+            "SUPT5H",
+            1
+        ],
+        [
+            "TIMM50",
+            1
+        ],
+        [
+            "LOC110198255",
+            1
+        ],
+        [
+            "LOC110198176",
+            1
+        ],
+        [
+            "LOC122750221",
+            1
+        ],
+        [
+            "LOC122748209",
+            1
+        ],
+        [
+            "LOC122748210",
+            1
+        ]
+    ],
+    "data": [
+        {
+            "species": "Homo sapiens",
+            "data": [
+                {},
+                {},
+                {
+                    "gene": "NFKBIB",
+                    "type": 2,
+                    "exon": 45,
+                    "product": "NF-kappa-B inhibitor beta isoform 4",
+                    "same": true
+                },
+                {
+                    "gene": "CCER2",
+                    "type": 2,
+                    "exon": 23,
+                    "product": "coiled-coil domain-containing glutamate-rich protein 2 isoform X1",
+                    "same": true
+                },
+                {
+                    "gene": "SARS2",
+                    "type": 2,
+                    "exon": 33,
+                    "product": "serine--tRNA ligase%2C mitochondrial isoform a precursor",
+                    "same": true
+                },
+                {
+                    "gene": "MRPS12",
+                    "type": 2,
+                    "exon": 8,
+                    "product": "28S ribosomal protein S12%2C mitochondrial precursor",
+                    "same": true
+                },
+                {
+                    "gene": "FBXO17",
+                    "type": 2,
+                    "exon": 18,
+                    "product": "F-box only protein 17 isoform 1",
+                    "same": false
+                },
+                {
+                    "gene": "FBXO27",
+                    "type": 2,
+                    "exon": 12,
+                    "product": "F-box only protein 27",
+                    "same": true
+                },
+                {
+                    "gene": "ACP7",
+                    "type": 2,
+                    "exon": 99,
+                    "product": "acid phosphatase type 7 isoform 2 precursor",
+                    "same": true
+                },
+                {
+                    "gene": "PAK4",
+                    "type": 2,
+                    "exon": 105,
+                    "product": "serine/threonine-protein kinase PAK 4 isoform X1",
+                    "same": true
+                },
+                {
+                    "gene": "NCCRP1",
+                    "type": 2,
+                    "exon": 11,
+                    "product": "F-box only protein 50 isoform X1",
+                    "same": true
+                },
+                {
+                    "gene": "SYCN",
+                    "type": 2,
+                    "exon": 2,
+                    "product": "syncollin precursor",
+                    "same": true
+                },
+                {
+                    "gene": "IFNL3P1",
+                    "type": 0,
+                    "exon": 0,
+                    "product": "syncollin precursor",
+                    "same": false
+                },
+                {
+                    "gene": "IFNL3",
+                    "type": 1,
+                    "exon": 11,
+                    "product": "interferon lambda-3 isoform 2 precursor",
+                    "same": true
+                },
+                {
+                    "gene": "IFNL4",
+                    "type": 0,
+                    "exon": 5,
+                    "product": "interferon lambda 4 (gene/pseudogene)%2C transcript variant 2",
+                    "same": false
+                },
+                {
+                    "gene": "MSRB1P1",
+                    "type": 2,
+                    "exon": 0,
+                    "product": "interferon lambda 4 (gene/pseudogene)%2C transcript variant 2",
+                    "same": false
+                },
+                {
+                    "gene": "IFNL4P1",
+                    "type": 2,
+                    "exon": 5,
+                    "product": "interferon lambda 4 (gene/pseudogene)%2C transcript variant 2",
+                    "same": false
+                },
+                {
+                    "gene": "IFNL2",
+                    "type": 1,
+                    "exon": 6,
+                    "product": "interferon lambda-2 precursor",
+                    "same": false
+                },
+                {
+                    "gene": "IFNL1",
+                    "type": 1,
+                    "exon": 5,
+                    "product": "interferon lambda-1 precursor",
+                    "same": false
+                },
+                {
+                    "gene": "LRFN1",
+                    "type": 2,
+                    "exon": 10,
+                    "product": "leucine-rich repeat and fibronectin type III domain-containing protein 1 isoform X1",
+                    "same": true
+                },
+                {},
+                {
+                    "gene": "GMFG",
+                    "type": 2,
+                    "exon": 13,
+                    "product": "glia maturation factor gamma isoform 1",
+                    "same": true
+                },
+                {
+                    "gene": "SAMD4B",
+                    "type": 2,
+                    "exon": 584,
+                    "product": "protein Smaug homolog 2 isoform X1",
+                    "same": true
+                },
+                {
+                    "gene": "RN7SL566P",
+                    "type": 2,
+                    "exon": 1,
+                    "product": "protein Smaug homolog 2 isoform X1",
+                    "same": false
+                },
+                {
+                    "gene": "PAF1",
+                    "type": 2,
+                    "exon": 41,
+                    "product": "RNA polymerase II-associated factor 1 homolog isoform 1",
+                    "same": true
+                },
+                {
+                    "gene": "MED29",
+                    "type": 2,
+                    "exon": 11,
+                    "product": "mediator of RNA polymerase II transcription subunit 29 isoform 2",
+                    "same": true
+                },
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "species": "Ornithorhynchus anatinus",
+            "data": [
+                {
+                    "gene": "RINL",
+                    "type": 2,
+                    "exon": 12,
+                    "product": "ras and Rab interactor-like protein",
+                    "same": true
+                },
+                {
+                    "gene": "SIRT2",
+                    "type": 2,
+                    "exon": 48,
+                    "product": "NAD-dependent protein deacetylase sirtuin-2 isoform X2",
+                    "same": true
+                },
+                {
+                    "gene": "NFKBIB",
+                    "type": 2,
+                    "exon": 6,
+                    "product": "NF-kappa-B inhibitor beta",
+                    "same": true
+                },
+                {
+                    "gene": "CCER2",
+                    "type": 2,
+                    "exon": 8,
+                    "product": "coiled-coil domain-containing glutamate-rich protein 2 isoform X2",
+                    "same": true
+                },
+                {
+                    "gene": "SARS2",
+                    "type": 2,
+                    "exon": 32,
+                    "product": "serine--tRNA ligase%2C mitochondrial isoform X2",
+                    "same": true
+                },
+                {
+                    "gene": "MRPS12",
+                    "type": 2,
+                    "exon": 3,
+                    "product": "28S ribosomal protein S12%2C mitochondrial",
+                    "same": true
+                },
+                {},
+                {
+                    "gene": "FBXO27",
+                    "type": 2,
+                    "exon": 7,
+                    "product": "F-box only protein 27",
+                    "same": true
+                },
+                {
+                    "gene": "ACP7",
+                    "type": 2,
+                    "exon": 23,
+                    "product": "acid phosphatase type 7 isoform X2",
+                    "same": true
+                },
+                {
+                    "gene": "PAK4",
+                    "type": 2,
+                    "exon": 17,
+                    "product": "serine/threonine-protein kinase PAK 4 isoform X2",
+                    "same": true
+                },
+                {
+                    "gene": "NCCRP1",
+                    "type": 2,
+                    "exon": 6,
+                    "product": "F-box only protein 50",
+                    "same": true
+                },
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {
+                    "gene": "LOC103166971",
+                    "type": 0,
+                    "exon": 5,
+                    "product": "interferon lambda-4-like",
+                    "same": false
+                },
+                {
+                    "gene": "LOC114812048",
+                    "type": 2,
+                    "exon": 19,
+                    "product": "leucine-rich repeat and fibronectin type III domain-containing protein 1-like protein isoform X2",
+                    "same": false
+                },
+                {
+                    "gene": "LRFN1",
+                    "type": 2,
+                    "exon": 5,
+                    "product": "leucine-rich repeat and fibronectin type III domain-containing protein 1",
+                    "same": true
+                },
+                {},
+                {
+                    "gene": "GMFG",
+                    "type": 2,
+                    "exon": 7,
+                    "product": "glia maturation factor gamma",
+                    "same": true
+                },
+                {
+                    "gene": "SAMD4B",
+                    "type": 2,
+                    "exon": 39,
+                    "product": "protein Smaug homolog 2 isoform X2",
+                    "same": true
+                },
+                {},
+                {
+                    "gene": "PAF1",
+                    "type": 2,
+                    "exon": 14,
+                    "product": "RNA polymerase II-associated factor 1 homolog",
+                    "same": true
+                },
+                {
+                    "gene": "MED29",
+                    "type": 2,
+                    "exon": 8,
+                    "product": "mediator of RNA polymerase II transcription subunit 29 isoform X2",
+                    "same": true
+                },
+                {
+                    "gene": "ZFP36",
+                    "type": 2,
+                    "exon": 2,
+                    "product": "mRNA decay activator protein ZFP36",
+                    "same": true
+                },
+                {
+                    "gene": "TRNAI-UAU",
+                    "type": 2,
+                    "exon": 2,
+                    "product": "mRNA decay activator protein ZFP36",
+                    "same": true
+                },
+                {
+                    "gene": "PLEKHG2",
+                    "type": 2,
+                    "exon": 20,
+                    "product": "pleckstrin homology domain-containing family G member 2",
+                    "same": true
+                },
+                {},
+                {},
+                {},
+                {
+                    "gene": "LOC114812055",
+                    "type": 2,
+                    "exon": 5,
+                    "product": "cytoglobin-2-like",
+                    "same": false
+                }
+            ]
+        },
+        {
+            "species": "Gracilinanus agilis",
+            "data": [
+                {},
+                {
+                    "gene": "SIRT2",
+                    "type": 2,
+                    "exon": 16,
+                    "product": "NAD-dependent protein deacetylase sirtuin-2",
+                    "same": true
+                },
+                {
+                    "gene": "NFKBIB",
+                    "type": 2,
+                    "exon": 6,
+                    "product": "NF-kappa-B inhibitor beta",
+                    "same": true
+                },
+                {
+                    "gene": "CCER2",
+                    "type": 2,
+                    "exon": 11,
+                    "product": "coiled-coil domain-containing glutamate-rich protein 2 isoform X1",
+                    "same": true
+                },
+                {
+                    "gene": "SARS2",
+                    "type": 2,
+                    "exon": 16,
+                    "product": "serine--tRNA ligase%2C mitochondrial",
+                    "same": true
+                },
+                {
+                    "gene": "MRPS12",
+                    "type": 2,
+                    "exon": 5,
+                    "product": "28S ribosomal protein S12%2C mitochondrial",
+                    "same": true
+                },
+                {},
+                {
+                    "gene": "FBXO27",
+                    "type": 2,
+                    "exon": 5,
+                    "product": "F-box only protein 27",
+                    "same": true
+                },
+                {
+                    "gene": "ACP7",
+                    "type": 2,
+                    "exon": 12,
+                    "product": "acid phosphatase type 7",
+                    "same": true
+                },
+                {
+                    "gene": "PAK4",
+                    "type": 2,
+                    "exon": 18,
+                    "product": "serine/threonine-protein kinase PAK 4",
+                    "same": true
+                },
+                {
+                    "gene": "NCCRP1",
+                    "type": 2,
+                    "exon": 7,
+                    "product": "F-box only protein 50",
+                    "same": true
+                },
+                {
+                    "gene": "SYCN",
+                    "type": 2,
+                    "exon": 1,
+                    "product": "syncollin",
+                    "same": true
+                },
+                {},
+                {
+                    "gene": "IFNL3",
+                    "type": 0,
+                    "exon": 5,
+                    "product": "interferon lambda-3",
+                    "same": true
+                },
+                {},
+                {},
+                {},
+                {},
+                {},
+                {
+                    "gene": "LRFN1",
+                    "type": 2,
+                    "exon": 3,
+                    "product": "leucine-rich repeat and fibronectin type III domain-containing protein 1",
+                    "same": true
+                },
+                {},
+                {},
+                {
+                    "gene": "SAMD4B",
+                    "type": 2,
+                    "exon": 34,
+                    "product": "protein Smaug homolog 2 isoform X1",
+                    "same": true
+                },
+                {},
+                {
+                    "gene": "PAF1",
+                    "type": 2,
+                    "exon": 14,
+                    "product": "RNA polymerase II-associated factor 1 homolog",
+                    "same": true
+                },
+                {
+                    "gene": "MED29",
+                    "type": 2,
+                    "exon": 4,
+                    "product": "mediator of RNA polymerase II transcription subunit 29",
+                    "same": true
+                },
+                {
+                    "gene": "ZFP36",
+                    "type": 2,
+                    "exon": 3,
+                    "product": "mRNA decay activator protein ZFP36",
+                    "same": true
+                },
+                {},
+                {
+                    "gene": "PLEKHG2",
+                    "type": 2,
+                    "exon": 20,
+                    "product": "pleckstrin homology domain-containing family G member 2",
+                    "same": true
+                },
+                {
+                    "gene": "RPS16",
+                    "type": 2,
+                    "exon": 10,
+                    "product": "40S ribosomal protein S16 isoform X1",
+                    "same": true
+                },
+                {
+                    "gene": "LOC123240893",
+                    "type": 2,
+                    "exon": 3,
+                    "product": "40S ribosomal protein S16 isoform X1",
+                    "same": false
+                },
+                {
+                    "gene": "SUPT5H",
+                    "type": 2,
+                    "exon": 208,
+                    "product": "transcription elongation factor SPT5 isoform X1",
+                    "same": false
+                },
+                {
+                    "gene": "TIMM50",
+                    "type": 2,
+                    "exon": 11,
+                    "product": "mitochondrial import inner membrane translocase subunit TIM50",
+                    "same": false
+                }
+            ]
+        },
+        {
+            "species": "Phascolarctos cinereus",
+            "data": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {
+                    "gene": "RPS16",
+                    "type": 2,
+                    "exon": 5,
+                    "product": "40S ribosomal protein S16",
+                    "same": true
+                },
+                {
+                    "gene": "PLEKHG2",
+                    "type": 2,
+                    "exon": 58,
+                    "product": "pleckstrin homology domain-containing family G member 2 isoform X1",
+                    "same": true
+                },
+                {
+                    "gene": "TRNAI-UAU",
+                    "type": 2,
+                    "exon": 2,
+                    "product": "pleckstrin homology domain-containing family G member 2 isoform X1",
+                    "same": true
+                },
+                {
+                    "gene": "ZFP36",
+                    "type": 2,
+                    "exon": 2,
+                    "product": "mRNA decay activator protein ZFP36",
+                    "same": true
+                },
+                {
+                    "gene": "MED29",
+                    "type": 2,
+                    "exon": 4,
+                    "product": "mediator of RNA polymerase II transcription subunit 29",
+                    "same": true
+                },
+                {
+                    "gene": "PAF1",
+                    "type": 2,
+                    "exon": 14,
+                    "product": "RNA polymerase II-associated factor 1 homolog",
+                    "same": true
+                },
+                {
+                    "gene": "SAMD4B",
+                    "type": 2,
+                    "exon": 13,
+                    "product": "protein Smaug homolog 2",
+                    "same": true
+                },
+                {
+                    "gene": "GMFG",
+                    "type": 2,
+                    "exon": 22,
+                    "product": "glia maturation factor gamma isoform X3",
+                    "same": true
+                },
+                {
+                    "gene": "LRFN1",
+                    "type": 2,
+                    "exon": 7,
+                    "product": "leucine-rich repeat and fibronectin type III domain-containing protein 1",
+                    "same": true
+                },
+                {
+                    "gene": "LOC110198255",
+                    "type": 2,
+                    "exon": 4,
+                    "product": "leucine-rich repeat and fibronectin type III domain-containing protein 1",
+                    "same": false
+                },
+                {
+                    "gene": "LOC110198176",
+                    "type": 0,
+                    "exon": 10,
+                    "product": "interferon lambda-3-like isoform X2",
+                    "same": false
+                },
+                {
+                    "gene": "SYCN",
+                    "type": 2,
+                    "exon": 1,
+                    "product": "syncollin",
+                    "same": true
+                },
+                {
+                    "gene": "NCCRP1",
+                    "type": 2,
+                    "exon": 6,
+                    "product": "F-box only protein 50",
+                    "same": true
+                },
+                {
+                    "gene": "PAK4",
+                    "type": 2,
+                    "exon": 10,
+                    "product": "LOW QUALITY PROTEIN: serine/threonine-protein kinase PAK 4",
+                    "same": true
+                },
+                {},
+                {
+                    "gene": "ACP7",
+                    "type": 2,
+                    "exon": 13,
+                    "product": "acid phosphatase type 7",
+                    "same": true
+                },
+                {
+                    "gene": "MRPS12",
+                    "type": 2,
+                    "exon": 3,
+                    "product": "28S ribosomal protein S12%2C mitochondrial",
+                    "same": true
+                },
+                {
+                    "gene": "SARS2",
+                    "type": 2,
+                    "exon": 31,
+                    "product": "serine--tRNA ligase%2C mitochondrial isoform X2",
+                    "same": true
+                },
+                {
+                    "gene": "CCER2",
+                    "type": 2,
+                    "exon": 11,
+                    "product": "coiled-coil domain-containing glutamate-rich protein 2 isoform X2",
+                    "same": true
+                },
+                {
+                    "gene": "NFKBIB",
+                    "type": 2,
+                    "exon": 6,
+                    "product": "NF-kappa-B inhibitor beta",
+                    "same": true
+                },
+                {
+                    "gene": "SIRT2",
+                    "type": 2,
+                    "exon": 16,
+                    "product": "NAD-dependent protein deacetylase sirtuin-2",
+                    "same": true
+                },
+                {
+                    "gene": "RINL",
+                    "type": 2,
+                    "exon": 46,
+                    "product": "ras and Rab interactor-like protein isoform X2",
+                    "same": true
+                }
+            ]
+        },
+        {
+            "species": "Dromiciops gliroides",
+            "data": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {
+                    "gene": "LOC122750221",
+                    "type": 2,
+                    "exon": 6,
+                    "product": "uncharacterized LOC122750221",
+                    "same": false
+                },
+                {
+                    "gene": "RPS16",
+                    "type": 2,
+                    "exon": 5,
+                    "product": "40S ribosomal protein S16",
+                    "same": true
+                },
+                {
+                    "gene": "PLEKHG2",
+                    "type": 2,
+                    "exon": 23,
+                    "product": "LOW QUALITY PROTEIN: pleckstrin homology domain-containing family G member 2",
+                    "same": true
+                },
+                {
+                    "gene": "TRNAI-UAU",
+                    "type": 2,
+                    "exon": 2,
+                    "product": "LOW QUALITY PROTEIN: pleckstrin homology domain-containing family G member 2",
+                    "same": true
+                },
+                {
+                    "gene": "ZFP36",
+                    "type": 2,
+                    "exon": 2,
+                    "product": "mRNA decay activator protein ZFP36",
+                    "same": true
+                },
+                {
+                    "gene": "MED29",
+                    "type": 2,
+                    "exon": 8,
+                    "product": "mediator of RNA polymerase II transcription subunit 29 isoform X2",
+                    "same": true
+                },
+                {
+                    "gene": "PAF1",
+                    "type": 2,
+                    "exon": 27,
+                    "product": "RNA polymerase II-associated factor 1 homolog isoform X2",
+                    "same": true
+                },
+                {
+                    "gene": "SAMD4B",
+                    "type": 2,
+                    "exon": 14,
+                    "product": "LOW QUALITY PROTEIN: protein Smaug homolog 2",
+                    "same": true
+                },
+                {
+                    "gene": "GMFG",
+                    "type": 2,
+                    "exon": 14,
+                    "product": "glia maturation factor gamma isoform X2",
+                    "same": true
+                },
+                {
+                    "gene": "LRFN1",
+                    "type": 2,
+                    "exon": 11,
+                    "product": "leucine-rich repeat and fibronectin type III domain-containing protein 1",
+                    "same": true
+                },
+                {},
+                {
+                    "gene": "LOC122748209",
+                    "type": 0,
+                    "exon": 5,
+                    "product": "interferon lambda-1-like",
+                    "same": false
+                },
+                {
+                    "gene": "SYCN",
+                    "type": 2,
+                    "exon": 1,
+                    "product": "syncollin",
+                    "same": true
+                },
+                {
+                    "gene": "NCCRP1",
+                    "type": 2,
+                    "exon": 8,
+                    "product": "LOW QUALITY PROTEIN: F-box only protein 50",
+                    "same": true
+                },
+                {
+                    "gene": "PAK4",
+                    "type": 2,
+                    "exon": 26,
+                    "product": "serine/threonine-protein kinase PAK 4 isoform X2",
+                    "same": true
+                },
+                {
+                    "gene": "LOC122748210",
+                    "type": 2,
+                    "exon": 7,
+                    "product": "F-box only protein 50-like",
+                    "same": false
+                },
+                {
+                    "gene": "ACP7",
+                    "type": 2,
+                    "exon": 12,
+                    "product": "acid phosphatase type 7",
+                    "same": true
+                },
+                {
+                    "gene": "MRPS12",
+                    "type": 2,
+                    "exon": 6,
+                    "product": "28S ribosomal protein S12%2C mitochondrial isoform X1",
+                    "same": true
+                },
+                {
+                    "gene": "SARS2",
+                    "type": 2,
+                    "exon": 32,
+                    "product": "serine--tRNA ligase%2C mitochondrial isoform X1",
+                    "same": true
+                },
+                {
+                    "gene": "CCER2",
+                    "type": 2,
+                    "exon": 24,
+                    "product": "coiled-coil domain-containing glutamate-rich protein 2 isoform X4",
+                    "same": true
+                },
+                {
+                    "gene": "NFKBIB",
+                    "type": 2,
+                    "exon": 6,
+                    "product": "NF-kappa-B inhibitor beta",
+                    "same": true
+                },
+                {
+                    "gene": "SIRT2",
+                    "type": 2,
+                    "exon": 16,
+                    "product": "LOW QUALITY PROTEIN: NAD-dependent protein deacetylase sirtuin-2",
+                    "same": true
+                },
+                {}
+            ]
+        }
+    ]
+}
