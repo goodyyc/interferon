@@ -28,7 +28,7 @@ export default function Newseq () {
       let shape = {
         x: mid[0] - width / 2,
         y: mid[1] - height,
-        width: 3,
+        width: width,
         height: height,
       }
       let result = {
