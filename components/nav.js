@@ -67,6 +67,10 @@ export default function Nav ({ selected }) {
             key: 'Newseq',
             label: <Link href='/newseq'>Newseq</Link>,
           },
+          {
+            key: 'Detail',
+            label: <Link href='/detail'>Detail</Link>,
+          },
         ]}
       />
     </>
