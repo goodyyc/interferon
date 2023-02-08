@@ -6,7 +6,7 @@ import { Layout, Input, Select, AutoComplete, Switch } from 'antd'
 import * as echarts from 'echarts'
 const { Header, Footer, Sider, Content } = Layout
 const { Option } = Select
-import data from '../data/mydata/blast_result1.json'
+import data from '../data/mydata/blast_result.json'
 import species from '../data/mydata/species.json'
 export default function Newseq () {
   const echartRef = useRef()
