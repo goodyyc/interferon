@@ -105,6 +105,41 @@ export default function Newseq () {
               c.positive,//9
               c.gap,//10
               c.name,
+              c.number,
+              c.direction
+              //c.exactStart.toLocaleString(),
+              //c.exactEnd.toLocaleString(),
+            ],
+            label: {
+              formatter: function (params) {
+                return params.value[5]
+              },
+              show: labelShow,
+              position: 'top',
+              padding: 10,
+              borderColor: '#0000',
+              borderWidth: 2,
+              color: 'blue',
+            },
+            labelLine: {
+              show: labelShow,
+              smooth: 1,
+
+            },
+          })
+        }
+
+        else {
+          datas.push({
+            value: [
+              0,
+              c.start,
+              c.end,
+              c.exon,
+              c.inner_type,//c.type,
+              c.name,//c.gene,
+              c.product,
+              c.direction,
               //c.exactStart.toLocaleString(),
               //c.exactEnd.toLocaleString(),
             ],
@@ -123,74 +158,6 @@ export default function Newseq () {
               show: labelShow,
               smooth: 1,
             },
-          })
-        }
-        //基因
-        // else (c.type === 'gene')
-        // {
-        //   // 干扰素相关基因
-        //   if (c.inner_type === '3') {
-        //     datas.push({
-        //       value: [
-        //         0,
-        //         c.start,
-        //         c.end,
-        //         c.exon,
-        //         c.inner_type,//c.type,
-        //         c.name,//c.gene,
-        //         c.product,
-        //         c.direction,
-        //         //c.exactStart.toLocaleString(),
-        //         //c.exactEnd.toLocaleString(),
-        //       ],
-        //       label: {
-        //         formatter: function (params) {
-        //           return params.value[5]
-        //         },
-        //         show: labelShow,
-        //         position: 'top',
-        //         padding: 10,
-        //         borderColor: '#0000',
-        //         borderWidth: 2,
-        //       },
-        //       labelLine: {
-        //         show: labelShow,
-        //         smooth: true,
-        //       },
-        //     })
-        //   }
-        //   //I型干扰素基因
-        //   else {
-        //     datas.push({
-        //       value: [
-        //         0,
-        //         c.start,
-        //         c.end,
-        //         c.exon,
-        //         c.inner_type,//c.type,
-        //         c.name,//c.gene,
-        //         c.product,
-        //         c.direction,
-        //         //c.exactStart.toLocaleString(),
-        //         //c.exactEnd.toLocaleString(),
-        //       ],
-        //     })
-        //   }
-        // }
-        else {
-          datas.push({
-            value: [
-              0,
-              c.start,
-              c.end,
-              c.exon,
-              c.inner_type,//c.type,
-              c.name,//c.gene,
-              c.product,
-              c.direction,
-              //c.exactStart.toLocaleString(),
-              //c.exactEnd.toLocaleString(),
-            ],
           })
         }
       }
@@ -228,7 +195,11 @@ export default function Newseq () {
                 '<br>positive: ' +
                 params.value[9] +
                 '<br>gap: ' +
-                params.value[10]
+                params.value[10] +
+                '<br>the num of seq: ' +
+                params.value[12] +
+                '<br>direction: ' +
+                params.value[13]
               )
             }
           },
