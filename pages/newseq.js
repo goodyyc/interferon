@@ -5,14 +5,17 @@ import { useState, useEffect, useRef } from 'react'
 import { Layout, Input, Select, AutoComplete, Switch } from 'antd'
 import * as echarts from 'echarts'
 const { Header, Footer, Sider, Content } = Layout
-const { Option } = Select
+// const { Option } = Select
 import data from '../data/mydata/blast_result.json'
 import species from '../data/mydata/species.json'
-export default function Newseq () {
+export default function Newseq ({ autocompleteOptions }) {
   const echartRef = useRef()
   const [height, setHeight] = useState(0)
   const [selectedItems, setSelectedItems] = useState('Anas platyrhynchos_绿头鸭')
   const [labelShow, setLabelShow] = useState(true)
+  const onSelect = (value) => {
+    setSelectedItems(value)
+  }
   useEffect(() => {
     document.getElementById('echarts').innerHTML = ''
     let color = ['#bd6d6c', '#000000', '#75d874', '#75d874']
@@ -287,10 +290,15 @@ export default function Newseq () {
           compact
           style={{ justifyContent: 'center', display: 'flex' }}
         >
-          <AutoComplete
-            options={species}
+          {/* <AutoComplete
+            options={autocompleteOptions}
             style={{ width: '30%' }}
             onSelect={e => setSelectedItems(e)}
+            onSearch={e => setSelectedItems(e)}
+            filterOption={(inputValue, option) =>
+              option.value.toUpperCase().indexOf(inputValue.toUpperCase()) !==
+              -1
+            }
           >
             <Input.Search
               size='large'
@@ -299,6 +307,25 @@ export default function Newseq () {
               onSearch={e => setSelectedItems(e)}
               allowClear={true}
             />
+          </AutoComplete> */}
+          {/* <AutoComplete
+            style={{ width: '30%' }}
+            options={autocompleteOptions}
+            placeholder="try to type `b`"
+            filterOption={(inputValue, option) =>
+              option.value.toUpperCase().indexOf(inputValue.toUpperCase()) !== -1
+            }/>
+              <Input.Search size="large" placeholder="input here" enterButton /> */}
+          <AutoComplete
+            dropdownMatchSelectWidth={252}
+            style={{ width: '30%' }}
+            options={autocompleteOptions}
+            onSelect={onSelect}
+            filterOption={(inputValue, option) =>
+              option.value.toUpperCase().indexOf(inputValue.toUpperCase()) !== -1
+            }
+          >
+            <Input.Search size="large" placeholder="input here" enterButton />
           </AutoComplete>
         </Input.Group>
         <Switch
@@ -316,4 +343,20 @@ export default function Newseq () {
       </Content>
     </Layout>
   )
+}
+
+export async function getStaticProps () {
+  function getAllOptions (species) {
+    let result = []
+    for (let q = 0; q < species.length; q++) {
+      result.push({ value: species[q].value })
+    }
+    return result
+  }
+  let autocompleteOptions = getAllOptions(species)
+  return {
+    props: {
+      autocompleteOptions: autocompleteOptions,
+    },
+  }
 }
