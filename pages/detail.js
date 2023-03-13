@@ -9,24 +9,27 @@ import species from '../data/mydata/species.json'
 import genes from '../data/mydata/detail_list.json'
 function Showcontent ({ stringDatas, species, genedata }) {
   const [showspecies, setShowspecies] = useState([])
+  // const Cspecies = useRef(species)
+  let cspecies = ''
+  let cstringDatas = []
   useEffect(() => {
     //根据第一个输入框的值过滤（物种）
     if (species !== '') {
-      species = species.split("_")[0]
-      stringDatas = stringDatas.filter(dd => species === dd.ename)
+      cspecies = species.split("_")[0]
+      cstringDatas = stringDatas.filter(dd => cspecies === dd.ename)
     }
     //根据第二个输入框的值过滤（基因）
     if (genedata !== '') {
-      stringDatas = stringDatas.filter(dd => {
+      cstringDatas = stringDatas.filter(dd => {
         let iiii = dd.name.indexOf(genedata)
         if (iiii !== -1) { return 1 }//保留
         else { return 0 }//过滤
       })
     }
-    setShowspecies(stringDatas)
+    setShowspecies(cstringDatas)
     console.log(showspecies)
     console.log(genedata)
-  }, [species, genedata])
+  }, [showspecies])
   return (
     <div >
       {showspecies.map((item, index) =>
