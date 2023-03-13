@@ -71,6 +71,10 @@ export default function Nav ({ selected }) {
             key: 'Detail',
             label: <Link href='/detail'>Detail</Link>,
           },
+          {
+            key: 'Neighbor',
+            label: <Link href='/neighbor'>Neighbor</Link>,
+          },
         ]}
       />
     </>

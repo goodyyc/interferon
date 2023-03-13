@@ -308,14 +308,6 @@ export default function Newseq ({ autocompleteOptions }) {
               allowClear={true}
             />
           </AutoComplete> */}
-          {/* <AutoComplete
-            style={{ width: '30%' }}
-            options={autocompleteOptions}
-            placeholder="try to type `b`"
-            filterOption={(inputValue, option) =>
-              option.value.toUpperCase().indexOf(inputValue.toUpperCase()) !== -1
-            }/>
-              <Input.Search size="large" placeholder="input here" enterButton /> */}
           <AutoComplete
             dropdownMatchSelectWidth={252}
             style={{ width: '30%' }}
