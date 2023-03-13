@@ -10,62 +10,61 @@ import genes from '../data/mydata/detail_list.json'
 function Showcontent ({ stringDatas, species, genedata }) {
   const [showspecies, setShowspecies] = useState([])
   // const Cspecies = useRef(species)
-  let cspecies = ''
-  let cstringDatas = []
+  const cspecies = useRef('')
+  const cstringDatas = useRef(new Array())
+  cspecies.current = species
+  cstringDatas.current = stringDatas
+  // console.log(cstringDatas.current)
+  // cstringDatas.current = stringDatas
   useEffect(() => {
+    // console.log(cstringDatas.current)
     //根据第一个输入框的值过滤（物种）
     if (species !== '') {
-      cspecies = species.split("_")[0]
-      cstringDatas = stringDatas.filter(dd => cspecies === dd.ename)
+      cspecies.current = cspecies.current.split("_")[0]
+      cstringDatas.current = cstringDatas.current.filter(dd => cspecies.current === dd.ename)
     }
+    // console.log(cstringDatas.current)
     //根据第二个输入框的值过滤（基因）
     if (genedata !== '') {
-      cstringDatas = stringDatas.filter(dd => {
+      cstringDatas.current = cstringDatas.current.filter(dd => {
         let iiii = dd.name.indexOf(genedata)
         if (iiii !== -1) { return 1 }//保留
         else { return 0 }//过滤
       })
     }
-    setShowspecies(cstringDatas)
-    console.log(showspecies)
-    console.log(genedata)
-  }, [showspecies])
+    console.log(cstringDatas.current)
+    console.log(species)
+    // console.log(cspecies.current)
+    setShowspecies(cstringDatas.current)
+  }, [species, genedata])
   return (
     <div >
       {showspecies.map((item, index) =>
-        <div >
+        <div key={index}>
+          <RightOutlined style={{ marginLeft: 8, fontSize: '20px', color: '#888' }} />
+          <p className="font-extrabold italic" >查询基因：<font className="italic font-thin">{item.name}</font></p>
+          <p className="font-extrabold italic" >比对物种：<font className="italic font-thin">{item.db}</font></p>
           <table >
-            <tbody>
-              <div>
-                <RightOutlined key={index} style={{ marginLeft: 8, fontSize: '20px', color: '#888' }} />
-                <p class="font-extrabold italic">查询基因：<font class="italic font-thin">{item.name}</font></p>
-                <p class="font-extrabold italic">比对物种：<font class="italic font-thin">{item.db}</font></p>
-                {item.tr.map((item2, index2) => {
-                  let bg = item.color_label
-                  return (
-                    <tr key={index2}>
-                      {item2.map((char, index3) =>
-                        <td bgcolor={bg[index3]}>
-                          {char}
-                        </td>)}
-                    </tr>)
-                }
-                )}
-              </div>
+            <tbody >
+              {item.tr.map((item2, index2) => {
+                let bg = item.color_label
+                return (
+                  <tr key={index2}>
+                    {item2.map((char, index3) =>
+                      <td bgcolor={bg[index3]} key={index3}>
+                        {char}
+                      </td>)}
+                  </tr>)
+              }
+              )}
             </tbody>
           </table>
           <p></p>
           <p></p>
         </div>
       )}
-      {/* <table>
-        <tbody> */}
-
-
-      {/* </tbody>
-      </table> */}
-
-
+      { }
+      { }
     </div>
   )
 }
