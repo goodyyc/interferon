@@ -1,7 +1,7 @@
 [
   {
     "gene": {
-      "": "IFNW1",
+      "gene": "IFNW1",
       "species": "Homo sapiens",
       "chromosome": "NC_060933.1",
       "start": 21154492,
