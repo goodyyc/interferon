@@ -5,6 +5,7 @@ import { useState, useEffect, useRef } from 'react'
 import { Layout, Input, Select, AutoComplete, Switch } from 'antd'
 import * as echarts from 'echarts'
 import translocation from '../data/translocation2.json'
+//import translocation from '../data/mydata/translocation.json'
 import { main } from '@popperjs/core'
 
 const { Header, Footer, Sider, Content } = Layout

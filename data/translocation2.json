@@ -1,1 +1,3159 @@
-[{"data": [{"name": "LOC110201183", "value": "Phascolarctos cinereus_树袋熊", "category": 0}, {"name": "MTAP", "category": 2}, {"name": "LOC110201202", "value": "Phascolarctos cinereus_树袋熊", "category": 1, "symbolSize": 7.9, "itemStyle": {"opacity": 0.79}}, {"name": "LOC110201203", "value": "Phascolarctos cinereus_树袋熊", "category": 1, "symbolSize": 8.7, "itemStyle": {"opacity": 0.87}}, {"name": "LOC118833624", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.6, "itemStyle": {"opacity": 0.76}}, {"name": "HACD4", "category": 4, "symbolSize": 7.6, "itemStyle": {"opacity": 0.76}}, {"name": "FOCAD", "category": 3, "symbolSize": 7.6, "itemStyle": {"opacity": 0.76}}, {"name": "LOC118833565", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC118833550", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.800000000000001, "itemStyle": {"opacity": 0.78}}, {"name": "LOC118833434", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}, {"name": "LOC118833564", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.6, "itemStyle": {"opacity": 0.76}}, {"name": "LOC118833567", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.800000000000001, "itemStyle": {"opacity": 0.78}}, {"name": "LOC118833559", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}, {"name": "LOC118833537", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.7, "itemStyle": {"opacity": 0.77}}, {"name": "LOC118833552", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}, {"name": "LOC118833554", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}, {"name": "LOC118833589", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.6, "itemStyle": {"opacity": 0.76}}, {"name": "LOC118831614", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.0, "itemStyle": {"opacity": 0.7}}, {"name": "LOC118831668", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC118831665", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 8.0, "itemStyle": {"opacity": 0.8}}, {"name": "LOC118831684", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.3, "itemStyle": {"opacity": 0.73}}, {"name": "LOC114039317", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "LOC114039318", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.3, "itemStyle": {"opacity": 0.73}}, {"name": "LOC114040899", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "LOC114042533", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC114048347", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.3, "itemStyle": {"opacity": 0.73}}, {"name": "LOC114048343", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "LOC114048351", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.3, "itemStyle": {"opacity": 0.73}}, {"name": "LOC114048353", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.5, "itemStyle": {"opacity": 0.75}}, {"name": "LOC114026032", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.5, "itemStyle": {"opacity": 0.75}}, {"name": "MOB3B", "category": 3, "symbolSize": 7.5, "itemStyle": {"opacity": 0.75}}, {"name": "LOC114026062", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.6, "itemStyle": {"opacity": 0.86}}, {"name": "LOC114026046", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.800000000000001, "itemStyle": {"opacity": 0.78}}, {"name": "LOC114026019", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.9, "itemStyle": {"opacity": 0.79}}], "links": [{"source": "LOC110201183", "target": "MTAP", "value": 1, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC110201202", "target": "MTAP", "value": 0.79, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC110201203", "target": "MTAP", "value": 0.87, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833624", "target": "HACD4", "value": 0.76, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833624", "target": "FOCAD", "value": 0.76, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833565", "target": "HACD4", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833565", "target": "FOCAD", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833550", "target": "HACD4", "value": 0.78, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833550", "target": "FOCAD", "value": 0.78, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833434", "target": "HACD4", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833434", "target": "FOCAD", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833564", "target": "HACD4", "value": 0.76, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833564", "target": "FOCAD", "value": 0.76, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833567", "target": "HACD4", "value": 0.78, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833567", "target": "FOCAD", "value": 0.78, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833559", "target": "HACD4", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833559", "target": "FOCAD", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833537", "target": "HACD4", "value": 0.77, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833537", "target": "FOCAD", "value": 0.77, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833552", "target": "HACD4", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833552", "target": "FOCAD", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833554", "target": "HACD4", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833554", "target": "FOCAD", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833589", "target": "HACD4", "value": 0.76, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833589", "target": "FOCAD", "value": 0.76, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118831614", "target": "MTAP", "value": 0.7, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118831668", "target": "MTAP", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118831665", "target": "MTAP", "value": 0.8, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118831684", "target": "MTAP", "value": 0.73, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114040899", "target": "FOCAD", "value": 0.71, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114040899", "target": "HACD4", "value": 0.71, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026032", "target": "MTAP", "value": 0.75, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026032", "target": "MOB3B", "value": 0.75, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026062", "target": "MTAP", "value": 0.86, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026062", "target": "MOB3B", "value": 0.86, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026046", "target": "MTAP", "value": 0.78, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026046", "target": "MOB3B", "value": 0.78, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026019", "target": "MTAP", "value": 0.79, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}]}, {"data": [{"name": "LOC110201202", "value": "Phascolarctos cinereus_树袋熊", "category": 0}, {"name": "MTAP", "category": 2}, {"name": "LOC110201203", "value": "Phascolarctos cinereus_树袋熊", "category": 1, "symbolSize": 7.9, "itemStyle": {"opacity": 0.79}}, {"name": "LOC118833624", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}, {"name": "HACD4", "category": 4, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}, {"name": "FOCAD", "category": 3, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}, {"name": "LOC118833550", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}, {"name": "LOC118833434", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "LOC118833564", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.3, "itemStyle": {"opacity": 0.73}}, {"name": "LOC118833567", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}, {"name": "LOC118833559", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "LOC118833537", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}, {"name": "LOC118833552", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC118833554", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.3, "itemStyle": {"opacity": 0.73}}, {"name": "LOC118833589", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.3, "itemStyle": {"opacity": 0.73}}, {"name": "LOC118831614", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC118831665", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.9, "itemStyle": {"opacity": 0.79}}, {"name": "LOC114039318", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC114048347", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "LOC114048343", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.0, "itemStyle": {"opacity": 0.7}}, {"name": "LOC114048351", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.3, "itemStyle": {"opacity": 0.73}}, {"name": "LOC114048353", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC114026032", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.5, "itemStyle": {"opacity": 0.75}}, {"name": "MOB3B", "category": 3, "symbolSize": 7.5, "itemStyle": {"opacity": 0.75}}, {"name": "LOC114026062", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.800000000000001, "itemStyle": {"opacity": 0.78}}, {"name": "LOC114026046", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.8, "itemStyle": {"opacity": 0.88}}, {"name": "LOC114026019", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.0, "itemStyle": {"opacity": 0.8}}], "links": [{"source": "LOC110201202", "target": "MTAP", "value": 1, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC110201203", "target": "MTAP", "value": 0.79, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833624", "target": "HACD4", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833624", "target": "FOCAD", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833550", "target": "HACD4", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833550", "target": "FOCAD", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833434", "target": "HACD4", "value": 0.71, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833434", "target": "FOCAD", "value": 0.71, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833564", "target": "HACD4", "value": 0.73, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833564", "target": "FOCAD", "value": 0.73, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833567", "target": "HACD4", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833567", "target": "FOCAD", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833559", "target": "HACD4", "value": 0.71, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833559", "target": "FOCAD", "value": 0.71, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833537", "target": "HACD4", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833537", "target": "FOCAD", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833552", "target": "HACD4", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833552", "target": "FOCAD", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833554", "target": "HACD4", "value": 0.73, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833554", "target": "FOCAD", "value": 0.73, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833589", "target": "HACD4", "value": 0.73, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833589", "target": "FOCAD", "value": 0.73, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118831614", "target": "MTAP", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118831665", "target": "MTAP", "value": 0.79, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026032", "target": "MTAP", "value": 0.75, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026032", "target": "MOB3B", "value": 0.75, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026062", "target": "MTAP", "value": 0.78, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026062", "target": "MOB3B", "value": 0.78, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026046", "target": "MTAP", "value": 0.88, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026046", "target": "MOB3B", "value": 0.88, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026019", "target": "MTAP", "value": 0.8, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}]}, {"data": [{"name": "LOC110201203", "value": "Phascolarctos cinereus_树袋熊", "category": 0}, {"name": "MTAP", "category": 2}, {"name": "LOC118833624", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.6, "itemStyle": {"opacity": 0.76}}, {"name": "HACD4", "category": 4, "symbolSize": 7.6, "itemStyle": {"opacity": 0.76}}, {"name": "FOCAD", "category": 3, "symbolSize": 7.6, "itemStyle": {"opacity": 0.76}}, {"name": "LOC118833565", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "LOC118833550", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.6, "itemStyle": {"opacity": 0.76}}, {"name": "LOC118833434", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC118833564", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}, {"name": "LOC118833567", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.5, "itemStyle": {"opacity": 0.75}}, {"name": "LOC118833559", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC118833537", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.6, "itemStyle": {"opacity": 0.76}}, {"name": "LOC118833552", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC118833554", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC118833589", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}, {"name": "LOC118831614", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "LOC118831665", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 8.299999999999999, "itemStyle": {"opacity": 0.83}}, {"name": "LOC118831684", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "LOC114039318", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC114048347", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC114048351", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "LOC114048353", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC114026032", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}, {"name": "MOB3B", "category": 3, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}, {"name": "LOC114026062", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.0, "itemStyle": {"opacity": 0.8}}, {"name": "LOC114026046", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.800000000000001, "itemStyle": {"opacity": 0.78}}, {"name": "LOC114026019", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.5, "itemStyle": {"opacity": 0.85}}], "links": [{"source": "LOC110201203", "target": "MTAP", "value": 1, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833624", "target": "HACD4", "value": 0.76, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833624", "target": "FOCAD", "value": 0.76, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833565", "target": "HACD4", "value": 0.71, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833565", "target": "FOCAD", "value": 0.71, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833550", "target": "HACD4", "value": 0.76, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833550", "target": "FOCAD", "value": 0.76, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833434", "target": "HACD4", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833434", "target": "FOCAD", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833564", "target": "HACD4", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833564", "target": "FOCAD", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833567", "target": "HACD4", "value": 0.75, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833567", "target": "FOCAD", "value": 0.75, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833559", "target": "HACD4", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833559", "target": "FOCAD", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833537", "target": "HACD4", "value": 0.76, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833537", "target": "FOCAD", "value": 0.76, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833552", "target": "HACD4", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833552", "target": "FOCAD", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833554", "target": "HACD4", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833554", "target": "FOCAD", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833589", "target": "HACD4", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833589", "target": "FOCAD", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118831614", "target": "MTAP", "value": 0.71, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118831665", "target": "MTAP", "value": 0.83, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118831684", "target": "MTAP", "value": 0.71, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026032", "target": "MTAP", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026032", "target": "MOB3B", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026062", "target": "MTAP", "value": 0.8, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026062", "target": "MOB3B", "value": 0.8, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026046", "target": "MTAP", "value": 0.78, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026046", "target": "MOB3B", "value": 0.78, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026019", "target": "MTAP", "value": 0.85, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}]}, {"data": [{"name": "LOC118833552", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 0}, {"name": "HACD4", "category": 2}, {"name": "FOCAD", "category": 2}, {"name": "LOC118833554", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 9.3, "itemStyle": {"opacity": 0.93}}, {"name": "LOC118833589", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 9.200000000000001, "itemStyle": {"opacity": 0.92}}, {"name": "LOC118831614", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.0, "itemStyle": {"opacity": 0.7}}, {"name": "MTAP", "category": 4, "symbolSize": 7.0, "itemStyle": {"opacity": 0.7}}, {"name": "LOC118831665", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC114039317", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.100000000000001, "itemStyle": {"opacity": 0.81}}, {"name": "LOC114039318", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.2, "itemStyle": {"opacity": 0.82}}, {"name": "LOC114040899", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.9, "itemStyle": {"opacity": 0.79}}, {"name": "LOC114042533", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.2, "itemStyle": {"opacity": 0.82}}, {"name": "LOC114048347", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.2, "itemStyle": {"opacity": 0.82}}, {"name": "LOC114048343", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.800000000000001, "itemStyle": {"opacity": 0.78}}, {"name": "LOC114048351", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.2, "itemStyle": {"opacity": 0.82}}, {"name": "LOC114048353", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.2, "itemStyle": {"opacity": 0.82}}, {"name": "LOC114026032", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "MOB3B", "category": 3, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC114026062", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.3, "itemStyle": {"opacity": 0.73}}, {"name": "LOC114026046", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC114026019", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}], "links": [{"source": "LOC118833552", "target": "HACD4", "value": 1, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833552", "target": "FOCAD", "value": 1, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833554", "target": "HACD4", "value": 0.93, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833554", "target": "FOCAD", "value": 0.93, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833589", "target": "HACD4", "value": 0.92, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833589", "target": "FOCAD", "value": 0.92, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118831614", "target": "MTAP", "value": 0.7, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118831665", "target": "MTAP", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114040899", "target": "FOCAD", "value": 0.79, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114040899", "target": "HACD4", "value": 0.79, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026032", "target": "MTAP", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026032", "target": "MOB3B", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026062", "target": "MTAP", "value": 0.73, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026062", "target": "MOB3B", "value": 0.73, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026046", "target": "MTAP", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026046", "target": "MOB3B", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026019", "target": "MTAP", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}]}, {"data": [{"name": "LOC118833554", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 0}, {"name": "HACD4", "category": 2}, {"name": "FOCAD", "category": 2}, {"name": "LOC118833589", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 9.1, "itemStyle": {"opacity": 0.91}}, {"name": "LOC118831665", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "MTAP", "category": 4, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC114039317", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.9, "itemStyle": {"opacity": 0.79}}, {"name": "LOC114039318", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.0, "itemStyle": {"opacity": 0.8}}, {"name": "LOC114040899", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.800000000000001, "itemStyle": {"opacity": 0.78}}, {"name": "LOC114042533", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.0, "itemStyle": {"opacity": 0.8}}, {"name": "LOC114048347", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.0, "itemStyle": {"opacity": 0.8}}, {"name": "LOC114048343", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.800000000000001, "itemStyle": {"opacity": 0.78}}, {"name": "LOC114048351", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.2, "itemStyle": {"opacity": 0.82}}, {"name": "LOC114048353", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.2, "itemStyle": {"opacity": 0.82}}, {"name": "LOC114026032", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "MOB3B", "category": 3, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "LOC114026062", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}, {"name": "LOC114026046", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC114026019", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.3, "itemStyle": {"opacity": 0.73}}], "links": [{"source": "LOC118833554", "target": "HACD4", "value": 1, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833554", "target": "FOCAD", "value": 1, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833589", "target": "HACD4", "value": 0.91, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833589", "target": "FOCAD", "value": 0.91, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118831665", "target": "MTAP", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114040899", "target": "FOCAD", "value": 0.78, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114040899", "target": "HACD4", "value": 0.78, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026032", "target": "MTAP", "value": 0.71, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026032", "target": "MOB3B", "value": 0.71, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026062", "target": "MTAP", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026062", "target": "MOB3B", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026046", "target": "MTAP", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026046", "target": "MOB3B", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026019", "target": "MTAP", "value": 0.73, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}]}, {"data": [{"name": "LOC118833589", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 0}, {"name": "HACD4", "category": 2}, {"name": "FOCAD", "category": 2}, {"name": "LOC118831614", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "MTAP", "category": 4, "symbolSize": 7.199999999999999, "itemStyle": {"opacity": 0.72}}, {"name": "LOC118831665", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}, {"name": "LOC118831684", "value": "Trichosurus vulpecula_刷尾负鼠", "category": 1, "symbolSize": 7.0, "itemStyle": {"opacity": 0.7}}, {"name": "LOC114039317", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.100000000000001, "itemStyle": {"opacity": 0.81}}, {"name": "LOC114039318", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.299999999999999, "itemStyle": {"opacity": 0.83}}, {"name": "LOC114040899", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.0, "itemStyle": {"opacity": 0.8}}, {"name": "LOC114042533", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.100000000000001, "itemStyle": {"opacity": 0.81}}, {"name": "LOC114048347", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.2, "itemStyle": {"opacity": 0.82}}, {"name": "LOC114048343", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.800000000000001, "itemStyle": {"opacity": 0.78}}, {"name": "LOC114048351", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.5, "itemStyle": {"opacity": 0.85}}, {"name": "LOC114048353", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.4, "itemStyle": {"opacity": 0.84}}, {"name": "LOC114048284", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "LOC114026032", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.5, "itemStyle": {"opacity": 0.75}}, {"name": "MOB3B", "category": 3, "symbolSize": 7.5, "itemStyle": {"opacity": 0.75}}, {"name": "LOC114026062", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.4, "itemStyle": {"opacity": 0.74}}, {"name": "LOC114026046", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.3, "itemStyle": {"opacity": 0.73}}, {"name": "LOC114026019", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.6, "itemStyle": {"opacity": 0.76}}], "links": [{"source": "LOC118833589", "target": "HACD4", "value": 1, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118833589", "target": "FOCAD", "value": 1, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118831614", "target": "MTAP", "value": 0.72, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118831665", "target": "MTAP", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC118831684", "target": "MTAP", "value": 0.7, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114040899", "target": "FOCAD", "value": 0.8, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114040899", "target": "HACD4", "value": 0.8, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026032", "target": "MTAP", "value": 0.75, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026032", "target": "MOB3B", "value": 0.75, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026062", "target": "MTAP", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026062", "target": "MOB3B", "value": 0.74, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026046", "target": "MTAP", "value": 0.73, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026046", "target": "MOB3B", "value": 0.73, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026019", "target": "MTAP", "value": 0.76, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}]}, {"data": [{"name": "LOC114040899", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 0}, {"name": "FOCAD", "category": 2}, {"name": "HACD4", "category": 2}, {"name": "LOC114042533", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.100000000000001, "itemStyle": {"opacity": 0.81}}, {"name": "LOC114048347", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.9, "itemStyle": {"opacity": 0.79}}, {"name": "LOC114048343", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.800000000000001, "itemStyle": {"opacity": 0.78}}, {"name": "LOC114048351", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.100000000000001, "itemStyle": {"opacity": 0.81}}, {"name": "LOC114048353", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 8.0, "itemStyle": {"opacity": 0.8}}, {"name": "LOC114026032", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "MTAP", "category": 4, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "MOB3B", "category": 3, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "LOC114026062", "value": "Vombatus ursinus_塔斯马尼亚袋熊", "category": 1, "symbolSize": 7.0, "itemStyle": {"opacity": 0.7}}], "links": [{"source": "LOC114040899", "target": "FOCAD", "value": 1, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114040899", "target": "HACD4", "value": 1, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026032", "target": "MTAP", "value": 0.71, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026032", "target": "MOB3B", "value": 0.71, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026062", "target": "MTAP", "value": 0.7, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC114026062", "target": "MOB3B", "value": 0.7, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}]}, {"data": [{"name": "LOC120407300", "value": "Mauremys reevesii_乌龟", "category": 0}, {"name": "MTAP", "category": 2}, {"name": "LOC115653539", "value": "Gopherus evgoodei_古兹沙漠陆龟", "category": 1, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "FOCAD", "category": 4, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "HACD4", "category": 3, "symbolSize": 7.1, "itemStyle": {"opacity": 0.71}}, {"name": "LOC115653544", "value": "Gopherus evgoodei_古兹沙漠陆龟", "category": 1, "symbolSize": 8.5, "itemStyle": {"opacity": 0.85}}, {"name": "LOC115653546", "value": "Gopherus evgoodei_古兹沙漠陆龟", "category": 1, "symbolSize": 7.7, "itemStyle": {"opacity": 0.77}}, {"name": "LOC115640581", "value": "Gopherus evgoodei_古兹沙漠陆龟", "category": 1, "symbolSize": 7.9, "itemStyle": {"opacity": 0.79}}], "links": [{"source": "LOC120407300", "target": "MTAP", "value": 1, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC115653539", "target": "FOCAD", "value": 0.71, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC115653539", "target": "HACD4", "value": 0.71, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC115653544", "target": "FOCAD", "value": 0.85, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC115653544", "target": "HACD4", "value": 0.85, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC115653546", "target": "FOCAD", "value": 0.77, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC115653546", "target": "HACD4", "value": 0.77, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}]}, {"data": [{"name": "LOC115653518", "value": "Gopherus evgoodei_古兹沙漠陆龟", "category": 0}, {"name": "MTAP", "category": 2}, {"name": "LOC115653542", "value": "Gopherus evgoodei_古兹沙漠陆龟", "category": 1, "symbolSize": 8.0, "itemStyle": {"opacity": 0.8}}, {"name": "FOCAD", "category": 4, "symbolSize": 8.0, "itemStyle": {"opacity": 0.8}}, {"name": "HACD4", "category": 3, "symbolSize": 8.0, "itemStyle": {"opacity": 0.8}}, {"name": "LOC115653545", "value": "Gopherus evgoodei_古兹沙漠陆龟", "category": 1, "symbolSize": 8.2, "itemStyle": {"opacity": 0.82}}], "links": [{"source": "LOC115653518", "target": "MTAP", "value": 1, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC115653542", "target": "FOCAD", "value": 0.8, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC115653542", "target": "HACD4", "value": 0.8, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC115653545", "target": "FOCAD", "value": 0.82, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}, {"source": "LOC115653545", "target": "HACD4", "value": 0.82, "label": {"show": 1, "position": "middle", "formatter": "{@value}"}}]}]
+[
+  {
+    "data": [
+      {
+        "name": "LOC110201183",
+        "value": "Phascolarctos cinereus_树袋熊",
+        "category": 0
+      },
+      {
+        "name": "MTAP",
+        "category": 2
+      },
+      {
+        "name": "LOC110201202",
+        "value": "Phascolarctos cinereus_树袋熊",
+        "category": 1,
+        "symbolSize": 7.9,
+        "itemStyle": {
+          "opacity": 0.79
+        }
+      },
+      {
+        "name": "LOC110201203",
+        "value": "Phascolarctos cinereus_树袋熊",
+        "category": 1,
+        "symbolSize": 8.7,
+        "itemStyle": {
+          "opacity": 0.87
+        }
+      },
+      {
+        "name": "LOC118833624",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.6,
+        "itemStyle": {
+          "opacity": 0.76
+        }
+      },
+      {
+        "name": "HACD4",
+        "category": 4,
+        "symbolSize": 7.6,
+        "itemStyle": {
+          "opacity": 0.76
+        }
+      },
+      {
+        "name": "FOCAD",
+        "category": 3,
+        "symbolSize": 7.6,
+        "itemStyle": {
+          "opacity": 0.76
+        }
+      },
+      {
+        "name": "LOC118833565",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC118833550",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.800000000000001,
+        "itemStyle": {
+          "opacity": 0.78
+        }
+      },
+      {
+        "name": "LOC118833434",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      },
+      {
+        "name": "LOC118833564",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.6,
+        "itemStyle": {
+          "opacity": 0.76
+        }
+      },
+      {
+        "name": "LOC118833567",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.800000000000001,
+        "itemStyle": {
+          "opacity": 0.78
+        }
+      },
+      {
+        "name": "LOC118833559",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      },
+      {
+        "name": "LOC118833537",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.7,
+        "itemStyle": {
+          "opacity": 0.77
+        }
+      },
+      {
+        "name": "LOC118833552",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      },
+      {
+        "name": "LOC118833554",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      },
+      {
+        "name": "LOC118833589",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.6,
+        "itemStyle": {
+          "opacity": 0.76
+        }
+      },
+      {
+        "name": "LOC118831614",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.0,
+        "itemStyle": {
+          "opacity": 0.7
+        }
+      },
+      {
+        "name": "LOC118831668",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC118831665",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 8.0,
+        "itemStyle": {
+          "opacity": 0.8
+        }
+      },
+      {
+        "name": "LOC118831684",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.3,
+        "itemStyle": {
+          "opacity": 0.73
+        }
+      },
+      {
+        "name": "LOC114039317",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "LOC114039318",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.3,
+        "itemStyle": {
+          "opacity": 0.73
+        }
+      },
+      {
+        "name": "LOC114040899",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "LOC114042533",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC114048347",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.3,
+        "itemStyle": {
+          "opacity": 0.73
+        }
+      },
+      {
+        "name": "LOC114048343",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "LOC114048351",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.3,
+        "itemStyle": {
+          "opacity": 0.73
+        }
+      },
+      {
+        "name": "LOC114048353",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.5,
+        "itemStyle": {
+          "opacity": 0.75
+        }
+      },
+      {
+        "name": "LOC114026032",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.5,
+        "itemStyle": {
+          "opacity": 0.75
+        }
+      },
+      {
+        "name": "MOB3B",
+        "category": 3,
+        "symbolSize": 7.5,
+        "itemStyle": {
+          "opacity": 0.75
+        }
+      },
+      {
+        "name": "LOC114026062",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.6,
+        "itemStyle": {
+          "opacity": 0.86
+        }
+      },
+      {
+        "name": "LOC114026046",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.800000000000001,
+        "itemStyle": {
+          "opacity": 0.78
+        }
+      },
+      {
+        "name": "LOC114026019",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.9,
+        "itemStyle": {
+          "opacity": 0.79
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "LOC110201183",
+        "target": "MTAP",
+        "value": 1,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC110201202",
+        "target": "MTAP",
+        "value": 0.79,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC110201203",
+        "target": "MTAP",
+        "value": 0.87,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833624",
+        "target": "HACD4",
+        "value": 0.76,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833624",
+        "target": "FOCAD",
+        "value": 0.76,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833565",
+        "target": "HACD4",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833565",
+        "target": "FOCAD",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833550",
+        "target": "HACD4",
+        "value": 0.78,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833550",
+        "target": "FOCAD",
+        "value": 0.78,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833434",
+        "target": "HACD4",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833434",
+        "target": "FOCAD",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833564",
+        "target": "HACD4",
+        "value": 0.76,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833564",
+        "target": "FOCAD",
+        "value": 0.76,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833567",
+        "target": "HACD4",
+        "value": 0.78,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833567",
+        "target": "FOCAD",
+        "value": 0.78,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833559",
+        "target": "HACD4",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833559",
+        "target": "FOCAD",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833537",
+        "target": "HACD4",
+        "value": 0.77,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833537",
+        "target": "FOCAD",
+        "value": 0.77,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833552",
+        "target": "HACD4",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833552",
+        "target": "FOCAD",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833554",
+        "target": "HACD4",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833554",
+        "target": "FOCAD",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833589",
+        "target": "HACD4",
+        "value": 0.76,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833589",
+        "target": "FOCAD",
+        "value": 0.76,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118831614",
+        "target": "MTAP",
+        "value": 0.7,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118831668",
+        "target": "MTAP",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118831665",
+        "target": "MTAP",
+        "value": 0.8,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118831684",
+        "target": "MTAP",
+        "value": 0.73,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114040899",
+        "target": "FOCAD",
+        "value": 0.71,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114040899",
+        "target": "HACD4",
+        "value": 0.71,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026032",
+        "target": "MTAP",
+        "value": 0.75,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026032",
+        "target": "MOB3B",
+        "value": 0.75,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026062",
+        "target": "MTAP",
+        "value": 0.86,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026062",
+        "target": "MOB3B",
+        "value": 0.86,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026046",
+        "target": "MTAP",
+        "value": 0.78,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026046",
+        "target": "MOB3B",
+        "value": 0.78,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026019",
+        "target": "MTAP",
+        "value": 0.79,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "name": "LOC110201202",
+        "value": "Phascolarctos cinereus_树袋熊",
+        "category": 0
+      },
+      {
+        "name": "MTAP",
+        "category": 2
+      },
+      {
+        "name": "LOC110201203",
+        "value": "Phascolarctos cinereus_树袋熊",
+        "category": 1,
+        "symbolSize": 7.9,
+        "itemStyle": {
+          "opacity": 0.79
+        }
+      },
+      {
+        "name": "LOC118833624",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      },
+      {
+        "name": "HACD4",
+        "category": 4,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      },
+      {
+        "name": "FOCAD",
+        "category": 3,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      },
+      {
+        "name": "LOC118833550",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      },
+      {
+        "name": "LOC118833434",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "LOC118833564",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.3,
+        "itemStyle": {
+          "opacity": 0.73
+        }
+      },
+      {
+        "name": "LOC118833567",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      },
+      {
+        "name": "LOC118833559",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "LOC118833537",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      },
+      {
+        "name": "LOC118833552",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC118833554",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.3,
+        "itemStyle": {
+          "opacity": 0.73
+        }
+      },
+      {
+        "name": "LOC118833589",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.3,
+        "itemStyle": {
+          "opacity": 0.73
+        }
+      },
+      {
+        "name": "LOC118831614",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC118831665",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.9,
+        "itemStyle": {
+          "opacity": 0.79
+        }
+      },
+      {
+        "name": "LOC114039318",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC114048347",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "LOC114048343",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.0,
+        "itemStyle": {
+          "opacity": 0.7
+        }
+      },
+      {
+        "name": "LOC114048351",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.3,
+        "itemStyle": {
+          "opacity": 0.73
+        }
+      },
+      {
+        "name": "LOC114048353",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC114026032",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.5,
+        "itemStyle": {
+          "opacity": 0.75
+        }
+      },
+      {
+        "name": "MOB3B",
+        "category": 3,
+        "symbolSize": 7.5,
+        "itemStyle": {
+          "opacity": 0.75
+        }
+      },
+      {
+        "name": "LOC114026062",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.800000000000001,
+        "itemStyle": {
+          "opacity": 0.78
+        }
+      },
+      {
+        "name": "LOC114026046",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.8,
+        "itemStyle": {
+          "opacity": 0.88
+        }
+      },
+      {
+        "name": "LOC114026019",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.0,
+        "itemStyle": {
+          "opacity": 0.8
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "LOC110201202",
+        "target": "MTAP",
+        "value": 1,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC110201203",
+        "target": "MTAP",
+        "value": 0.79,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833624",
+        "target": "HACD4",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833624",
+        "target": "FOCAD",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833550",
+        "target": "HACD4",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833550",
+        "target": "FOCAD",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833434",
+        "target": "HACD4",
+        "value": 0.71,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833434",
+        "target": "FOCAD",
+        "value": 0.71,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833564",
+        "target": "HACD4",
+        "value": 0.73,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833564",
+        "target": "FOCAD",
+        "value": 0.73,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833567",
+        "target": "HACD4",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833567",
+        "target": "FOCAD",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833559",
+        "target": "HACD4",
+        "value": 0.71,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833559",
+        "target": "FOCAD",
+        "value": 0.71,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833537",
+        "target": "HACD4",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833537",
+        "target": "FOCAD",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833552",
+        "target": "HACD4",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833552",
+        "target": "FOCAD",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833554",
+        "target": "HACD4",
+        "value": 0.73,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833554",
+        "target": "FOCAD",
+        "value": 0.73,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833589",
+        "target": "HACD4",
+        "value": 0.73,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833589",
+        "target": "FOCAD",
+        "value": 0.73,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118831614",
+        "target": "MTAP",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118831665",
+        "target": "MTAP",
+        "value": 0.79,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026032",
+        "target": "MTAP",
+        "value": 0.75,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026032",
+        "target": "MOB3B",
+        "value": 0.75,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026062",
+        "target": "MTAP",
+        "value": 0.78,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026062",
+        "target": "MOB3B",
+        "value": 0.78,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026046",
+        "target": "MTAP",
+        "value": 0.88,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026046",
+        "target": "MOB3B",
+        "value": 0.88,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026019",
+        "target": "MTAP",
+        "value": 0.8,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "name": "LOC110201203",
+        "value": "Phascolarctos cinereus_树袋熊",
+        "category": 0
+      },
+      {
+        "name": "MTAP",
+        "category": 2
+      },
+      {
+        "name": "LOC118833624",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.6,
+        "itemStyle": {
+          "opacity": 0.76
+        }
+      },
+      {
+        "name": "HACD4",
+        "category": 4,
+        "symbolSize": 7.6,
+        "itemStyle": {
+          "opacity": 0.76
+        }
+      },
+      {
+        "name": "FOCAD",
+        "category": 3,
+        "symbolSize": 7.6,
+        "itemStyle": {
+          "opacity": 0.76
+        }
+      },
+      {
+        "name": "LOC118833565",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "LOC118833550",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.6,
+        "itemStyle": {
+          "opacity": 0.76
+        }
+      },
+      {
+        "name": "LOC118833434",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC118833564",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      },
+      {
+        "name": "LOC118833567",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.5,
+        "itemStyle": {
+          "opacity": 0.75
+        }
+      },
+      {
+        "name": "LOC118833559",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC118833537",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.6,
+        "itemStyle": {
+          "opacity": 0.76
+        }
+      },
+      {
+        "name": "LOC118833552",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC118833554",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC118833589",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      },
+      {
+        "name": "LOC118831614",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "LOC118831665",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 8.299999999999999,
+        "itemStyle": {
+          "opacity": 0.83
+        }
+      },
+      {
+        "name": "LOC118831684",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "LOC114039318",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC114048347",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC114048351",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "LOC114048353",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC114026032",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      },
+      {
+        "name": "MOB3B",
+        "category": 3,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      },
+      {
+        "name": "LOC114026062",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.0,
+        "itemStyle": {
+          "opacity": 0.8
+        }
+      },
+      {
+        "name": "LOC114026046",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.800000000000001,
+        "itemStyle": {
+          "opacity": 0.78
+        }
+      },
+      {
+        "name": "LOC114026019",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.5,
+        "itemStyle": {
+          "opacity": 0.85
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "LOC110201203",
+        "target": "MTAP",
+        "value": 1,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833624",
+        "target": "HACD4",
+        "value": 0.76,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833624",
+        "target": "FOCAD",
+        "value": 0.76,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833565",
+        "target": "HACD4",
+        "value": 0.71,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833565",
+        "target": "FOCAD",
+        "value": 0.71,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833550",
+        "target": "HACD4",
+        "value": 0.76,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833550",
+        "target": "FOCAD",
+        "value": 0.76,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833434",
+        "target": "HACD4",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833434",
+        "target": "FOCAD",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833564",
+        "target": "HACD4",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833564",
+        "target": "FOCAD",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833567",
+        "target": "HACD4",
+        "value": 0.75,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833567",
+        "target": "FOCAD",
+        "value": 0.75,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833559",
+        "target": "HACD4",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833559",
+        "target": "FOCAD",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833537",
+        "target": "HACD4",
+        "value": 0.76,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833537",
+        "target": "FOCAD",
+        "value": 0.76,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833552",
+        "target": "HACD4",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833552",
+        "target": "FOCAD",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833554",
+        "target": "HACD4",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833554",
+        "target": "FOCAD",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833589",
+        "target": "HACD4",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833589",
+        "target": "FOCAD",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118831614",
+        "target": "MTAP",
+        "value": 0.71,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118831665",
+        "target": "MTAP",
+        "value": 0.83,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118831684",
+        "target": "MTAP",
+        "value": 0.71,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026032",
+        "target": "MTAP",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026032",
+        "target": "MOB3B",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026062",
+        "target": "MTAP",
+        "value": 0.8,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026062",
+        "target": "MOB3B",
+        "value": 0.8,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026046",
+        "target": "MTAP",
+        "value": 0.78,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026046",
+        "target": "MOB3B",
+        "value": 0.78,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026019",
+        "target": "MTAP",
+        "value": 0.85,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "name": "LOC118833552",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 0
+      },
+      {
+        "name": "HACD4",
+        "category": 2
+      },
+      {
+        "name": "FOCAD",
+        "category": 2
+      },
+      {
+        "name": "LOC118833554",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 9.3,
+        "itemStyle": {
+          "opacity": 0.93
+        }
+      },
+      {
+        "name": "LOC118833589",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 9.200000000000001,
+        "itemStyle": {
+          "opacity": 0.92
+        }
+      },
+      {
+        "name": "LOC118831614",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.0,
+        "itemStyle": {
+          "opacity": 0.7
+        }
+      },
+      {
+        "name": "MTAP",
+        "category": 4,
+        "symbolSize": 7.0,
+        "itemStyle": {
+          "opacity": 0.7
+        }
+      },
+      {
+        "name": "LOC118831665",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC114039317",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.100000000000001,
+        "itemStyle": {
+          "opacity": 0.81
+        }
+      },
+      {
+        "name": "LOC114039318",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.2,
+        "itemStyle": {
+          "opacity": 0.82
+        }
+      },
+      {
+        "name": "LOC114040899",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.9,
+        "itemStyle": {
+          "opacity": 0.79
+        }
+      },
+      {
+        "name": "LOC114042533",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.2,
+        "itemStyle": {
+          "opacity": 0.82
+        }
+      },
+      {
+        "name": "LOC114048347",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.2,
+        "itemStyle": {
+          "opacity": 0.82
+        }
+      },
+      {
+        "name": "LOC114048343",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.800000000000001,
+        "itemStyle": {
+          "opacity": 0.78
+        }
+      },
+      {
+        "name": "LOC114048351",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.2,
+        "itemStyle": {
+          "opacity": 0.82
+        }
+      },
+      {
+        "name": "LOC114048353",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.2,
+        "itemStyle": {
+          "opacity": 0.82
+        }
+      },
+      {
+        "name": "LOC114026032",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "MOB3B",
+        "category": 3,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC114026062",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.3,
+        "itemStyle": {
+          "opacity": 0.73
+        }
+      },
+      {
+        "name": "LOC114026046",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC114026019",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "LOC118833552",
+        "target": "HACD4",
+        "value": 1,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833552",
+        "target": "FOCAD",
+        "value": 1,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833554",
+        "target": "HACD4",
+        "value": 0.93,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833554",
+        "target": "FOCAD",
+        "value": 0.93,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833589",
+        "target": "HACD4",
+        "value": 0.92,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833589",
+        "target": "FOCAD",
+        "value": 0.92,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118831614",
+        "target": "MTAP",
+        "value": 0.7,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118831665",
+        "target": "MTAP",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114040899",
+        "target": "FOCAD",
+        "value": 0.79,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114040899",
+        "target": "HACD4",
+        "value": 0.79,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026032",
+        "target": "MTAP",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026032",
+        "target": "MOB3B",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026062",
+        "target": "MTAP",
+        "value": 0.73,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026062",
+        "target": "MOB3B",
+        "value": 0.73,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026046",
+        "target": "MTAP",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026046",
+        "target": "MOB3B",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026019",
+        "target": "MTAP",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "name": "LOC118833554",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 0
+      },
+      {
+        "name": "HACD4",
+        "category": 2
+      },
+      {
+        "name": "FOCAD",
+        "category": 2
+      },
+      {
+        "name": "LOC118833589",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 9.1,
+        "itemStyle": {
+          "opacity": 0.91
+        }
+      },
+      {
+        "name": "LOC118831665",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "MTAP",
+        "category": 4,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC114039317",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.9,
+        "itemStyle": {
+          "opacity": 0.79
+        }
+      },
+      {
+        "name": "LOC114039318",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.0,
+        "itemStyle": {
+          "opacity": 0.8
+        }
+      },
+      {
+        "name": "LOC114040899",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.800000000000001,
+        "itemStyle": {
+          "opacity": 0.78
+        }
+      },
+      {
+        "name": "LOC114042533",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.0,
+        "itemStyle": {
+          "opacity": 0.8
+        }
+      },
+      {
+        "name": "LOC114048347",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.0,
+        "itemStyle": {
+          "opacity": 0.8
+        }
+      },
+      {
+        "name": "LOC114048343",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.800000000000001,
+        "itemStyle": {
+          "opacity": 0.78
+        }
+      },
+      {
+        "name": "LOC114048351",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.2,
+        "itemStyle": {
+          "opacity": 0.82
+        }
+      },
+      {
+        "name": "LOC114048353",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.2,
+        "itemStyle": {
+          "opacity": 0.82
+        }
+      },
+      {
+        "name": "LOC114026032",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "MOB3B",
+        "category": 3,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "LOC114026062",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      },
+      {
+        "name": "LOC114026046",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC114026019",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.3,
+        "itemStyle": {
+          "opacity": 0.73
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "LOC118833554",
+        "target": "HACD4",
+        "value": 1,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833554",
+        "target": "FOCAD",
+        "value": 1,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833589",
+        "target": "HACD4",
+        "value": 0.91,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833589",
+        "target": "FOCAD",
+        "value": 0.91,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118831665",
+        "target": "MTAP",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114040899",
+        "target": "FOCAD",
+        "value": 0.78,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114040899",
+        "target": "HACD4",
+        "value": 0.78,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026032",
+        "target": "MTAP",
+        "value": 0.71,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026032",
+        "target": "MOB3B",
+        "value": 0.71,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026062",
+        "target": "MTAP",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026062",
+        "target": "MOB3B",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026046",
+        "target": "MTAP",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026046",
+        "target": "MOB3B",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026019",
+        "target": "MTAP",
+        "value": 0.73,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "name": "LOC118833589",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 0
+      },
+      {
+        "name": "HACD4",
+        "category": 2
+      },
+      {
+        "name": "FOCAD",
+        "category": 2
+      },
+      {
+        "name": "LOC118831614",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "MTAP",
+        "category": 4,
+        "symbolSize": 7.199999999999999,
+        "itemStyle": {
+          "opacity": 0.72
+        }
+      },
+      {
+        "name": "LOC118831665",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      },
+      {
+        "name": "LOC118831684",
+        "value": "Trichosurus vulpecula_刷尾负鼠",
+        "category": 1,
+        "symbolSize": 7.0,
+        "itemStyle": {
+          "opacity": 0.7
+        }
+      },
+      {
+        "name": "LOC114039317",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.100000000000001,
+        "itemStyle": {
+          "opacity": 0.81
+        }
+      },
+      {
+        "name": "LOC114039318",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.299999999999999,
+        "itemStyle": {
+          "opacity": 0.83
+        }
+      },
+      {
+        "name": "LOC114040899",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.0,
+        "itemStyle": {
+          "opacity": 0.8
+        }
+      },
+      {
+        "name": "LOC114042533",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.100000000000001,
+        "itemStyle": {
+          "opacity": 0.81
+        }
+      },
+      {
+        "name": "LOC114048347",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.2,
+        "itemStyle": {
+          "opacity": 0.82
+        }
+      },
+      {
+        "name": "LOC114048343",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.800000000000001,
+        "itemStyle": {
+          "opacity": 0.78
+        }
+      },
+      {
+        "name": "LOC114048351",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.5,
+        "itemStyle": {
+          "opacity": 0.85
+        }
+      },
+      {
+        "name": "LOC114048353",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.4,
+        "itemStyle": {
+          "opacity": 0.84
+        }
+      },
+      {
+        "name": "LOC114048284",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "LOC114026032",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.5,
+        "itemStyle": {
+          "opacity": 0.75
+        }
+      },
+      {
+        "name": "MOB3B",
+        "category": 3,
+        "symbolSize": 7.5,
+        "itemStyle": {
+          "opacity": 0.75
+        }
+      },
+      {
+        "name": "LOC114026062",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.4,
+        "itemStyle": {
+          "opacity": 0.74
+        }
+      },
+      {
+        "name": "LOC114026046",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.3,
+        "itemStyle": {
+          "opacity": 0.73
+        }
+      },
+      {
+        "name": "LOC114026019",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.6,
+        "itemStyle": {
+          "opacity": 0.76
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "LOC118833589",
+        "target": "HACD4",
+        "value": 1,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118833589",
+        "target": "FOCAD",
+        "value": 1,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118831614",
+        "target": "MTAP",
+        "value": 0.72,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118831665",
+        "target": "MTAP",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC118831684",
+        "target": "MTAP",
+        "value": 0.7,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114040899",
+        "target": "FOCAD",
+        "value": 0.8,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114040899",
+        "target": "HACD4",
+        "value": 0.8,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026032",
+        "target": "MTAP",
+        "value": 0.75,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026032",
+        "target": "MOB3B",
+        "value": 0.75,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026062",
+        "target": "MTAP",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026062",
+        "target": "MOB3B",
+        "value": 0.74,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026046",
+        "target": "MTAP",
+        "value": 0.73,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026046",
+        "target": "MOB3B",
+        "value": 0.73,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026019",
+        "target": "MTAP",
+        "value": 0.76,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "name": "LOC114040899",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 0
+      },
+      {
+        "name": "FOCAD",
+        "category": 2
+      },
+      {
+        "name": "HACD4",
+        "category": 2
+      },
+      {
+        "name": "LOC114042533",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.100000000000001,
+        "itemStyle": {
+          "opacity": 0.81
+        }
+      },
+      {
+        "name": "LOC114048347",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.9,
+        "itemStyle": {
+          "opacity": 0.79
+        }
+      },
+      {
+        "name": "LOC114048343",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.800000000000001,
+        "itemStyle": {
+          "opacity": 0.78
+        }
+      },
+      {
+        "name": "LOC114048351",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.100000000000001,
+        "itemStyle": {
+          "opacity": 0.81
+        }
+      },
+      {
+        "name": "LOC114048353",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 8.0,
+        "itemStyle": {
+          "opacity": 0.8
+        }
+      },
+      {
+        "name": "LOC114026032",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "MTAP",
+        "category": 4,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "MOB3B",
+        "category": 3,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "LOC114026062",
+        "value": "Vombatus ursinus_塔斯马尼亚袋熊",
+        "category": 1,
+        "symbolSize": 7.0,
+        "itemStyle": {
+          "opacity": 0.7
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "LOC114040899",
+        "target": "FOCAD",
+        "value": 1,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114040899",
+        "target": "HACD4",
+        "value": 1,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026032",
+        "target": "MTAP",
+        "value": 0.71,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026032",
+        "target": "MOB3B",
+        "value": 0.71,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026062",
+        "target": "MTAP",
+        "value": 0.7,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC114026062",
+        "target": "MOB3B",
+        "value": 0.7,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "name": "LOC120407300",
+        "value": "Mauremys reevesii_乌龟",
+        "category": 0
+      },
+      {
+        "name": "MTAP",
+        "category": 2
+      },
+      {
+        "name": "LOC115653539",
+        "value": "Gopherus evgoodei_古兹沙漠陆龟",
+        "category": 1,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "FOCAD",
+        "category": 4,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "HACD4",
+        "category": 3,
+        "symbolSize": 7.1,
+        "itemStyle": {
+          "opacity": 0.71
+        }
+      },
+      {
+        "name": "LOC115653544",
+        "value": "Gopherus evgoodei_古兹沙漠陆龟",
+        "category": 1,
+        "symbolSize": 8.5,
+        "itemStyle": {
+          "opacity": 0.85
+        }
+      },
+      {
+        "name": "LOC115653546",
+        "value": "Gopherus evgoodei_古兹沙漠陆龟",
+        "category": 1,
+        "symbolSize": 7.7,
+        "itemStyle": {
+          "opacity": 0.77
+        }
+      },
+      {
+        "name": "LOC115640581",
+        "value": "Gopherus evgoodei_古兹沙漠陆龟",
+        "category": 1,
+        "symbolSize": 7.9,
+        "itemStyle": {
+          "opacity": 0.79
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "LOC120407300",
+        "target": "MTAP",
+        "value": 1,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC115653539",
+        "target": "FOCAD",
+        "value": 0.71,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC115653539",
+        "target": "HACD4",
+        "value": 0.71,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC115653544",
+        "target": "FOCAD",
+        "value": 0.85,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC115653544",
+        "target": "HACD4",
+        "value": 0.85,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC115653546",
+        "target": "FOCAD",
+        "value": 0.77,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC115653546",
+        "target": "HACD4",
+        "value": 0.77,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      }
+    ]
+  },
+  {
+    "data": [
+      {
+        "name": "LOC115653518",
+        "value": "Gopherus evgoodei_古兹沙漠陆龟",
+        "category": 0
+      },
+      {
+        "name": "MTAP",
+        "category": 2
+      },
+      {
+        "name": "LOC115653542",
+        "value": "Gopherus evgoodei_古兹沙漠陆龟",
+        "category": 1,
+        "symbolSize": 8.0,
+        "itemStyle": {
+          "opacity": 0.8
+        }
+      },
+      {
+        "name": "FOCAD",
+        "category": 4,
+        "symbolSize": 8.0,
+        "itemStyle": {
+          "opacity": 0.8
+        }
+      },
+      {
+        "name": "HACD4",
+        "category": 3,
+        "symbolSize": 8.0,
+        "itemStyle": {
+          "opacity": 0.8
+        }
+      },
+      {
+        "name": "LOC115653545",
+        "value": "Gopherus evgoodei_古兹沙漠陆龟",
+        "category": 1,
+        "symbolSize": 8.2,
+        "itemStyle": {
+          "opacity": 0.82
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "LOC115653518",
+        "target": "MTAP",
+        "value": 1,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC115653542",
+        "target": "FOCAD",
+        "value": 0.8,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC115653542",
+        "target": "HACD4",
+        "value": 0.8,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC115653545",
+        "target": "FOCAD",
+        "value": 0.82,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      },
+      {
+        "source": "LOC115653545",
+        "target": "HACD4",
+        "value": 0.82,
+        "label": {
+          "show": 1,
+          "position": "middle",
+          "formatter": "{@value}"
+        }
+      }
+    ]
+  }
+]
